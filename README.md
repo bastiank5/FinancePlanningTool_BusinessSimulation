@@ -1,39 +1,42 @@
-# TOPSIM Finance Tool – Strategie-Tutor & Auto-Dashboard
+# 🎓 TOPSIM Finance – Strategie-Tutor & Dashboard
 
-Willkommen bei deinem **Virtuellen CFO-Büro**. 
-Dieses Setup trennt strikt zwischen **Kalkulation** (passiert im zu 100% sicheren Excel-Dashboard) und **Strategischer Beratung & Lehre** (passiert durch die KI-Agenten anhand eurer Handbücher).
+Entscheidungen im Blindflug treffen war gestern. Dieses Hybrid-Projekt stattet dich mit einem fehlerfreien **Echtzeit-Berechnungstool in Excel** aus und kombiniert es mit einem **virtuellen Strategie-Tutor (CFO Mentor)** via Gemini CLI.
 
----
-
-## 📂 Die Architektur
-
-```text
-Finance Tool/
-├── GEMINI.md                                ← Die übergeordneten Regeln (Entscheidungsverbot!)
-├── TOPSIM_CFO_Dashboard.xlsx                ← Hier rechnest du Szenarien in Sekundenschnelle
-├── scripts/
-│   └── auto_import.py                       ← Skript zum Auto-Transfer aus .xls in die Excel
-├── .gemini/
-│   └── agents/
-│       ├── data-importer.md                 ← Der Agent, der das Skript startet
-│       ├── finance-advisor.md               ← Der Tutor (Handbuch-Leser, Erklärer)
-│       └── strategy-challenger.md             ← Der Risikoscanner (Advocatus Diaboli)
-└── Sources/
-    ├── Kennzahlen-Lexikon.md                ← 📚 Definitionen & Soll/Ist Marker
-    ├── Planspiel Handbuch und Expertengruppen/ ← PDFs mit den offiziellen Regeln
-    └── Periode X/                           ← zz.B. Periode 1, Periode 2 (Ablageort der .xls)
-```
+Dieses Tool übernimmt keine Rechenaufgaben für dich, es liefert dir echtes Strategie-Feedback und TOPSIM-Verständnis!
 
 ---
 
-## 🚀 Der High-Speed Workflow für jede Runde
+## 🚀 Wie das System arbeitet (Hybrid-Ansatz)
 
-1. **Die neue Datei ablegen:** Die Runde ist zu Ende, du bekommst die `reports-X.xls`. Lege sie einfach in den Ordner `Sources/Periode X/`.
-2. **Den Importer rufen:** Tippe hier in das Chatfenster:
-   > *"Sende den `@data-importer` los, um die neue Periode in mein Dashboard zu laden."*
-   Das Tool extrahiert die Basisdaten und fügt im `TOPSIM_CFO_Dashboard.xlsx` auf *Blatt 1* eine neue "Periode X" Spalte ein.
-3. **Im Dashboard spielen:** Du öffnest dein `TOPSIM_CFO_Dashboard.xlsx`, fragst deine Teamkollegen, was sie ausgeben wollen (trägst das in *Blatt 2* ein) und probierst dann in *Blatt 3* verschiedene Kreditszenarien durch (Echtzeit-Berechnung).
-4. **Beratung beim Mentor abholen:** Du bist dir unschlüssig? Sprich mit der KI:
-   > *"Mentor, mein Excel spuckt für Kredit-Option A einen Cashflow von 4 aus, aber bei Option B eine höhere Rendite mit 2 Mio Cashflow. Bevor ich mich entscheide: Was sagt das Handbuch zu den Gefahren eines so geringen Cashflows?"*
+1. **Die Berechnungen:** Du nutzt das eigens generierte `TOPSIM_CFO_Dashboard.xlsx` in deinem Hauptordner. Keine Skripte, keine Wartezeit. Ändere Kreditsumme oder Werbebudgets und lies sofort die exakte Eigenkapitalrendite und den Cashflow für TOPSIM ab.
+2. **Die Beratung:** Du gibst die Ergebnisse deines Excel-Tools oder allgemeine Theorie-Fragen in die Gemini CLI ein. Das intelligente Multi-Agenten System spielt Strategieberater.
 
-Viel Spaß bei deiner CEO/CFO-Ausbildung!
+### Die Agenten
+- `@finance-advisor`: Ein Tutor, der dir erklärt, was eine geringe EKR in TOPSIM verursacht, oder dir Feedback zu deiner Kreditauswahl im Spreadsheet gibt.
+- `@strategy-challenger`: Ein gnadenloser Kritiker, der dich davor schützt, mit 0 Liquiditätspuffer den Straf-Überziehungskredit von TOPSIM zu triggern.
+
+---
+
+## 🛠️ Der Workflow Runde für Runde
+
+### 1) Daten aus TOPSIM importieren
+- Wenn die Periode um ist, lad die Excel (`reports-X.xls`) herunter.
+- Öffne das `TOPSIM_CFO_Dashboard.xlsx` auf Blatt 1 (`1_Ist_Daten`) und aktualisiere rasch Kasse & Eigenkapital der Vorperiode.
+
+### 2) Kommilitonen ausfragen
+- Frage das Vertriebsteam und die Produktionsteram nach ihren Budgetplänen.
+- Trage deren Budgets (Fabriken, Werbung, Absatz) in Blatt 2 (`2_Team_Inputs`) ein.
+
+### 3) Echtzeit-Simulieren
+- Spiele im Reiter `3_Szenario_Rechner` verschiedene Kredithöhen und Dividenden durch.
+- Finde die bestmögliche Balance aus EKR und freier Cash-Liquidität.
+
+### 4) Das KI-Mentor-Feedback einholen
+Bevor du die final berechneten Werte der Excel in das echte TOPSIM-Portal eingibst, hole dir Feedback bei deinem virtuellen Mentor:
+
+> **"Mein Team hat riesige Budgets angemeldet. Mein Excel sagt mir: Wenn ich Szenario A (15 Mio Baukredit) mache, sinkt meine Kasse auf 0,5 MEUR, EKR ist aber 18%. Was sagst du als CFO-Mentor dazu?"**
+
+---
+
+## 📚 Was gibt es noch?
+Schau dir `Sources/Kennzahlen-Lexikon.md` an. Dort hast du als CFO jederzeit die wichtigsten Definitionen für TOPSIM sofort griffbereit!
