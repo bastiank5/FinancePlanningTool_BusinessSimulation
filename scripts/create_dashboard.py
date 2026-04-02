@@ -43,19 +43,26 @@ data2 = [
     ['Feld', 'Wert', 'Einheit', 'Hinweis (Vom Team erfragen)'],
     ['Geplante Absatzmenge', 45000, 'Stück', 'Planzahl Vertrieb'],
     ['Geplanter Preis', 3000, 'EUR', 'Planzahl Vertrieb'],
-    ['--- KERNAUSGABEN ---', '', '', ''],
-    ['Total Herstellkosten', 90.0, 'MEUR', 'inkl. Personal in Fertigung'],
+    ['Geplante Produktionsmenge', 45000, 'Stück', 'Für Bestandsveränderung'],
+    ['--- FERTIGUNG & PERSONAL (HERSTELLKOSTEN) ---', '', '', ''],
+    ['Material- & Maschinenkosten', 50.0, 'MEUR', 'Reine Sachkosten Fertigung'],
+    ['Anzahl Fertigungsmitarbeiter', 850, 'Personen', 'Geplanter Bestand'],
+    ['Ø Gehalt pro Mitarbeiter', 40000, 'EUR', 'Basisgehalt (Aus Berichten ablesen)'],
+    ['Personalnebenkosten (%)', 0.40, '%', 'Normalerweise 40%'],
+    ['Trainingsbudget pro MA', 1600, 'EUR', 'Z.B. 1600 EUR'],
+    ['Anzahl Einstellungen/Entlassungen', 50, 'Personen', 'Fluktuation + aktive Wechsel'],
+    ['Kosten pro Wechsel', 5000, 'EUR', 'Recruiting-/Abfindungskosten'],
+    ['Total Herstellkosten (Berechnet)', "=B6 + ((B7*B8*(1+B9) + B7*B10 + B11*B12)/1000000)", 'MEUR', 'Fließt ins EBIT ein'],
+    ['--- WEITERE OPERATIVE KOSTEN ---', '', '', ''],
     ['Total Verwaltungskosten', 10.0, 'MEUR', ''],
     ['Total Marketing/Vertrieb', 15.0, 'MEUR', ''],
     ['Forschung & Entwicklung (F&E)', 2.50, 'MEUR', 'Ökologie, Technologie, etc.'],
     ['Marktforschung', 0.15, 'MEUR', 'Kosten für Berichte / Analysen'],
     ['--- INVESTITIONEN ---', '', '', ''],
-    ['Freiwillige Tilgung Langfristkr.', 0.0, 'MEUR', 'Cash-Out! Kurzfrist wird automatisch getilgt.'],
     ['Abschreibungen Alt-Anlagen', 6.0, 'MEUR', 'inklusive 0.25 MEUR fixe Gebäude-AfA'],
     ['Geplante Neuinvestition', 15.0, 'MEUR', 'Totaler Kaufpreis Anlage - Cash Out!'],
     ['Geplante Neu-Abschreibung', 1.5, 'MEUR', 'Z.B. 10% Lineare Abschreibung'],
-    ['Veränderung Pensionsrückstellungen', 2.0, 'MEUR', 'Positiv = Cash-plus'],
-    ['Geplante Produktionsmenge', 45000, 'Stück', 'Für Bestandsveränderung (Fertigung)']
+    ['Veränderung Pensionsrückstellungen', 2.0, 'MEUR', 'Positiv = Cash-plus']
 ]
 for row in data2: ws2.append(row)
 
@@ -70,9 +77,9 @@ data3 = [
     ['Geplanter Wertpapierkauf', 0.0, 0.0, 0.0],
     ['--- 2: BERECHNUNG EBIT & GEWINN ---', '', '', ''],
     ['Plan-Umsatz', "='2_Team_Inputs'!B2*'2_Team_Inputs'!B3/1000000", "='2_Team_Inputs'!B2*'2_Team_Inputs'!B3/1000000", "='2_Team_Inputs'!B2*'2_Team_Inputs'!B3/1000000"],
-    ['Plan-Bestandsveränderung', "=IF('2_Team_Inputs'!B16>0, ('2_Team_Inputs'!B16-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B5/'2_Team_Inputs'!B16), 0)", "=IF('2_Team_Inputs'!B16>0, ('2_Team_Inputs'!B16-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B5/'2_Team_Inputs'!B16), 0)", "=IF('2_Team_Inputs'!B16>0, ('2_Team_Inputs'!B16-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B5/'2_Team_Inputs'!B16), 0)"],
-    ['Plan-EBIT', "=B8+B9-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14", "=C8+C9-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14", "=D8+D9-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14"],
-    ['Plan-Zinsaufwand', "=((B3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((B4+'1_Ist_Daten'!B8-'2_Team_Inputs'!B11)*'1_Ist_Daten'!B10)", "=((C3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((C4+'1_Ist_Daten'!B8-'2_Team_Inputs'!B11)*'1_Ist_Daten'!B10)", "=((D3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((D4+'1_Ist_Daten'!B8-'2_Team_Inputs'!B11)*'1_Ist_Daten'!B10)"],
+    ['Plan-Bestandsveränderung', "=IF('2_Team_Inputs'!B4>0, ('2_Team_Inputs'!B4-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B13/'2_Team_Inputs'!B4), 0)", "=IF('2_Team_Inputs'!B4>0, ('2_Team_Inputs'!B4-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B13/'2_Team_Inputs'!B4), 0)", "=IF('2_Team_Inputs'!B4>0, ('2_Team_Inputs'!B4-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B13/'2_Team_Inputs'!B4), 0)"],
+    ['Plan-EBIT', "=B8+B9-'2_Team_Inputs'!B13-SUM('2_Team_Inputs'!B15:B18)-'2_Team_Inputs'!B20-'2_Team_Inputs'!B22", "=C8+C9-'2_Team_Inputs'!B13-SUM('2_Team_Inputs'!B15:B18)-'2_Team_Inputs'!B20-'2_Team_Inputs'!B22", "=D8+D9-'2_Team_Inputs'!B13-SUM('2_Team_Inputs'!B15:B18)-'2_Team_Inputs'!B20-'2_Team_Inputs'!B22"],
+    ['Plan-Zinsaufwand', "=((B3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((B4+'1_Ist_Daten'!B8)*'1_Ist_Daten'!B10)", "=((C3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((C4+'1_Ist_Daten'!B8)*'1_Ist_Daten'!B10)", "=((D3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((D4+'1_Ist_Daten'!B8)*'1_Ist_Daten'!B10)"],
     ['Plan-EBT (Ergebnis vor Steuern)', "=B10-B11", "=C10-C11", "=D10-D11"],
     ['Bemessungsgrundlage Steuer', "=MAX(0, B12-'1_Ist_Daten'!B5)", "=MAX(0, C12-'1_Ist_Daten'!B5)", "=MAX(0, D12-'1_Ist_Daten'!B5)"],
     ['Plan-Steuern', "=B13*'1_Ist_Daten'!B9", "=C13*'1_Ist_Daten'!B9", "=D13*'1_Ist_Daten'!B9"],
@@ -80,9 +87,9 @@ data3 = [
     ['--- 3: TOPSIM ZIELEINGABEN ---', '', '', ''],
     ['Plan-Eigenkapital', "='1_Ist_Daten'!B3+B15-B5", "='1_Ist_Daten'!B3+C15-C5", "='1_Ist_Daten'!B3+D15-D5"],
     ['Plan-EKR (%)', "=(B15/B17)*100", "=(C15/C17)*100", "=(D15/D17)*100"],
-    ['Plan-Operativer Cashflow (MEUR)', "=B15+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15", "=C15+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15", "=D15+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15"],
+    ['Plan-Operativer Cashflow (MEUR)', "=B15+'2_Team_Inputs'!B20+'2_Team_Inputs'!B22+'2_Team_Inputs'!B23", "=C15+'2_Team_Inputs'!B20+'2_Team_Inputs'!B22+'2_Team_Inputs'!B23", "=D15+'2_Team_Inputs'!B20+'2_Team_Inputs'!B22+'2_Team_Inputs'!B23"],
     ['--- 4: TOPSIM FATAL CHECK ---', '', '', ''],
-    ['Kassenbestand ENDE (Alarm < 0)', "='1_Ist_Daten'!B2+B19+B3+B4-B5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-B6", "='1_Ist_Daten'!B2+C19+C3+C4-C5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-C6", "='1_Ist_Daten'!B2+D19+D3+D4-D5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-D6"],
+    ['Kassenbestand ENDE (Alarm < 0)', "='1_Ist_Daten'!B2+B19+B3+B4-B5-B6-'2_Team_Inputs'!B21-'1_Ist_Daten'!B7", "='1_Ist_Daten'!B2+C19+C3+C4-C5-C6-'2_Team_Inputs'!B21-'1_Ist_Daten'!B7", "='1_Ist_Daten'!B2+D19+D3+D4-D5-D6-'2_Team_Inputs'!B21-'1_Ist_Daten'!B7"]
 ]
 
 for idx, row in enumerate(data3, 1):
@@ -90,6 +97,7 @@ for idx, row in enumerate(data3, 1):
     if '---' in str(row[0]):
         ws3.cell(row=idx, column=1).font = Font(bold=True)
 
+# Styling
 for ws in [ws1, ws2, ws3]:
     for col in range(1, 4):
         try:
@@ -103,6 +111,9 @@ for ws in [ws1, ws2, ws3]:
 red_fill = PatternFill(start_color='FF0000', end_color='FF0000', fill_type='solid')
 white_font = Font(color='FFFFFF', bold=True)
 ws3.conditional_formatting.add('B21:D21', CellIsRule(operator='lessThan', formula=['0'], stopIfTrue=True, fill=red_fill, font=white_font))
+
+# Prozent-Formatierung für Zeile 9 in Blatt 2 (Personalnebenkosten)
+ws2.cell(row=9, column=2).number_format = '0%'
 
 # Backup & Speichern
 file_path = os.path.join(os.getcwd(), 'TOPSIM_CFO_Dashboard.xlsx')
