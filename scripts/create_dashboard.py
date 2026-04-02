@@ -54,7 +54,8 @@ data2 = [
     ['Abschreibungen Alt-Anlagen', 6.0, 'MEUR', 'inklusive 0.25 MEUR fixe Gebäude-AfA'],
     ['Geplante Neuinvestition', 15.0, 'MEUR', 'Totaler Kaufpreis Anlage - Cash Out!'],
     ['Geplante Neu-Abschreibung', 1.5, 'MEUR', 'Z.B. 10% Lineare Abschreibung'],
-    ['Veränderung Pensionsrückstellungen', 2.0, 'MEUR', 'Positiv = Cash-plus']
+    ['Veränderung Pensionsrückstellungen', 2.0, 'MEUR', 'Positiv = Cash-plus'],
+    ['Geplante Produktionsmenge', 45000, 'Stück', 'Für Bestandsveränderung (Fertigung)']
 ]
 for row in data2: ws2.append(row)
 
@@ -69,27 +70,25 @@ data3 = [
     ['Geplanter Wertpapierkauf', 0.0, 0.0, 0.0],
     ['--- 2: BERECHNUNG EBIT & GEWINN ---', '', '', ''],
     ['Plan-Umsatz', "='2_Team_Inputs'!B2*'2_Team_Inputs'!B3/1000000", "='2_Team_Inputs'!B2*'2_Team_Inputs'!B3/1000000", "='2_Team_Inputs'!B2*'2_Team_Inputs'!B3/1000000"],
-    ['Plan-EBIT', "=B8-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14", "=C8-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14", "=D8-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14"],
+    ['Plan-Bestandsveränderung', "=IF('2_Team_Inputs'!B16>0, ('2_Team_Inputs'!B16-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B5/'2_Team_Inputs'!B16), 0)", "=IF('2_Team_Inputs'!B16>0, ('2_Team_Inputs'!B16-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B5/'2_Team_Inputs'!B16), 0)", "=IF('2_Team_Inputs'!B16>0, ('2_Team_Inputs'!B16-'2_Team_Inputs'!B2)*('2_Team_Inputs'!B5/'2_Team_Inputs'!B16), 0)"],
+    ['Plan-EBIT', "=B8+B9-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14", "=C8+C9-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14", "=D8+D9-SUM('2_Team_Inputs'!B5:B9)-'2_Team_Inputs'!B12-'2_Team_Inputs'!B14"],
     ['Plan-Zinsaufwand', "=((B3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((B4+'1_Ist_Daten'!B8-'2_Team_Inputs'!B11)*'1_Ist_Daten'!B10)", "=((C3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((C4+'1_Ist_Daten'!B8-'2_Team_Inputs'!B11)*'1_Ist_Daten'!B10)", "=((D3+'1_Ist_Daten'!B7)*'1_Ist_Daten'!B11)+((D4+'1_Ist_Daten'!B8-'2_Team_Inputs'!B11)*'1_Ist_Daten'!B10)"],
-    ['Plan-EBT (Ergebnis vor Steuern)', "=B9-B10", "=C9-C10", "=D9-D10"],
-    ['Bemessungsgrundlage Steuer', "=MAX(0, B11-'1_Ist_Daten'!B5)", "=MAX(0, C11-'1_Ist_Daten'!B5)", "=MAX(0, D11-'1_Ist_Daten'!B5)"],
-    ['Plan-Steuern', "=B12*'1_Ist_Daten'!B9", "=C12*'1_Ist_Daten'!B9", "=D12*'1_Ist_Daten'!B9"],
-    ['Plan-Jahresüberschuss', "=B11-B13", "=C11-C13", "=D11-D13"],
+    ['Plan-EBT (Ergebnis vor Steuern)', "=B10-B11", "=C10-C11", "=D10-D11"],
+    ['Bemessungsgrundlage Steuer', "=MAX(0, B12-'1_Ist_Daten'!B5)", "=MAX(0, C12-'1_Ist_Daten'!B5)", "=MAX(0, D12-'1_Ist_Daten'!B5)"],
+    ['Plan-Steuern', "=B13*'1_Ist_Daten'!B9", "=C13*'1_Ist_Daten'!B9", "=D13*'1_Ist_Daten'!B9"],
+    ['Plan-Jahresüberschuss', "=B12-B14", "=C12-C14", "=D12-D14"],
     ['--- 3: TOPSIM ZIELEINGABEN ---', '', '', ''],
-    ['Plan-Eigenkapital', "='1_Ist_Daten'!B3+B14-B5", "='1_Ist_Daten'!B3+C14-C5", "='1_Ist_Daten'!B3+D14-D5"],
-    ['Plan-EKR (%)', "=(B14/B16)*100", "=(C14/C16)*100", "=(D14/D16)*100"],
-    ['Plan-Operativer Cashflow (MEUR)', "=B14+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15", "=C14+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15", "=D14+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15"],
+    ['Plan-Eigenkapital', "='1_Ist_Daten'!B3+B15-B5", "='1_Ist_Daten'!B3+C15-C5", "='1_Ist_Daten'!B3+D15-D5"],
+    ['Plan-EKR (%)', "=(B15/B17)*100", "=(C15/C17)*100", "=(D15/D17)*100"],
+    ['Plan-Operativer Cashflow (MEUR)', "=B15+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15", "=C15+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15", "=D15+'2_Team_Inputs'!B12+'2_Team_Inputs'!B14+'2_Team_Inputs'!B15"],
     ['--- 4: TOPSIM FATAL CHECK ---', '', '', ''],
-    ['Kassenbestand ENDE (Alarm < 0)', "='1_Ist_Daten'!B2+B18+B3+B4-B5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-B6", "='1_Ist_Daten'!B2+C18+C3+C4-C5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-C6", "='1_Ist_Daten'!B2+D18+D3+D4-D5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-D6"],
+    ['Kassenbestand ENDE (Alarm < 0)', "='1_Ist_Daten'!B2+B19+B3+B4-B5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-B6", "='1_Ist_Daten'!B2+C19+C3+C4-C5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-C6", "='1_Ist_Daten'!B2+D19+D3+D4-D5-'2_Team_Inputs'!B13-'1_Ist_Daten'!B7-'2_Team_Inputs'!B11-D6"],
 ]
 
 for idx, row in enumerate(data3, 1):
     ws3.append(row)
     if '---' in str(row[0]):
         ws3.cell(row=idx, column=1).font = Font(bold=True)
-
-# Styling und Ampel
-from openpyxl.formatting.rule import CellIsRule
 
 for ws in [ws1, ws2, ws3]:
     for col in range(1, 4):
@@ -100,10 +99,10 @@ for ws in [ws1, ws2, ws3]:
             pass
     ws.column_dimensions['A'].width = 45
 
-# Rote Ampel wenn Kasse unter 0 fällt (Zeile 20)
+# Rote Ampel wenn Kasse unter 0 fällt (Zeile 21)
 red_fill = PatternFill(start_color='FF0000', end_color='FF0000', fill_type='solid')
 white_font = Font(color='FFFFFF', bold=True)
-ws3.conditional_formatting.add('B20:D20', CellIsRule(operator='lessThan', formula=['0'], stopIfTrue=True, fill=red_fill, font=white_font))
+ws3.conditional_formatting.add('B21:D21', CellIsRule(operator='lessThan', formula=['0'], stopIfTrue=True, fill=red_fill, font=white_font))
 
 # Backup & Speichern
 file_path = os.path.join(os.getcwd(), 'TOPSIM_CFO_Dashboard.xlsx')
