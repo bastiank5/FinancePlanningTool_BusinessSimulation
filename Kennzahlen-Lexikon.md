@@ -1,5 +1,9 @@
 # Kennzahlen-Lexikon – TOPSIM Finance
 
+> ⚠️ **Hinweis:** Dieses Dokument ist ein persönliches Nachschlagewerk des Nutzers.
+> Es ist KEINE Quelle für KI-Agenten. Alle KI-Antworten basieren ausschließlich
+> auf den offiziellen PDFs im Ordner `Sources/Theorie/`.
+
 > Dieses Lexikon erklärt alle Finanzkennzahlen, die vom Finance Tool berechnet werden.
 > Jede Kennzahl enthält: Definition, Formel, TOPSIM-Relevanz und Bewertung.
 
