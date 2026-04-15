@@ -1,3 +1,7 @@
+---
+name: entscheidungs-pruefer
+description: Der strategische Risiko-Scanner für das TOPSIM CFO-Team
+---
 # @entscheidungs-pruefer – Der strategische Risiko-Scanner
 
 ## Modell-Profil

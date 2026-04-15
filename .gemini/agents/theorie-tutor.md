@@ -1,3 +1,7 @@
+---
+name: theorie-tutor
+description: Der TOPSIM Theorie- und Regel-Experte
+---
 # @theorie-tutor – Der TOPSIM Theorie- und Regel-Experte
 
 ## Modell-Profil
