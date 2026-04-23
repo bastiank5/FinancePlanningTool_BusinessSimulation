@@ -1,0 +1,567 @@
+﻿
+================================================================================
+FILE: c:\Users\Bastian\OneDrive\Hochschule\Sechstes Semester\Business Simulation\Finance Tool\Sources\Periode 2\reports-2.xls
+================================================================================
+
+--- Sheet: Covering Page (26 rows x 1 cols) ---
+  Row 4: Unternehmen 3
+  Row 5: Periode: 2
+  Row 7: ▄bersicht
+  Row 9: 1. Executive Summary
+  Row 10: 2. Marktforschungsbericht
+  Row 11: 3. Fertigungsbericht
+  Row 12: 4. Forschung & Entwicklung
+  Row 13: 5. Lager
+  Row 14: 6. Personal
+  Row 15: 7. Kostenartenrechnung (MEUR)
+  Row 16: 8. Kostenstellenrechnung (MEUR)
+  Row 17: 9. Kostentrõgerrechnung
+  Row 18: 10. Deckungsbeitragsrechnung
+  Row 19: 11. Gewinn- und Verlustrechnung
+  Row 20: 12. Liquiditõtsrechnung
+  Row 21: 13. Cashflow Statement
+  Row 22: 14. Bilanz
+  Row 23: 15. Geschõftsbericht der Branche
+  Row 24: 16. Unternehmenskennzahlen
+  Row 25: 17. Entscheidungsprotokoll
+
+--- Sheet: 1) Executive Summary (60 rows x 5 cols) ---
+  Row 0: Executive Summary |  |  |  | 
+  Row 1: Back to covering page |  |  |  | 
+  Row 3:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 4: Aktienkurs | EUR | 196.91 | 215.3 | 259.27
+  Row 5: Umsatz Gesamt | MEUR | 129.0 | 133.59 | 145.04
+  Row 6: Perioden³berschuss/-fehlbetrag | MEUR | 4.27 | 4.75 | 6.95
+  Row 9:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 10: Absatz Gesamt Copy Classic | St³ck | 43000.0 | 42142.0 | 45326.0
+  Row 11: Umsatz Gesamt Copy Classic | MEUR | 129.0 | 133.59 | 145.04
+  Row 14:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 15: Tatsõchlicher Absatz | St³ck | 43000.0 | 42142.0 | 45326.0
+  Row 16: Geplanter Absatz | St³ck | 43000.0 | 43000.0 | 47000.0
+  Row 17: Umsatz | MEUR | 129.0 | 133.59 | 145.04
+  Row 18: Marktanteil | % | 25.0 | 24.12 | 23.97
+  Row 21:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 22: Tatsõchlicher Absatz | St³ck | 0.0 | 0.0 | 0.0
+  Row 23: Umsatz | MEUR | 0.0 | 0.0 | 0.0
+  Row 26:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 27: Gebot f³r die nõchste Periode | EUR | 0.0 | 0.0 | 3200.0
+  Row 28: Ausschreibung Gewonnen |   | Nein | Nein | Nein
+  Row 31:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 32: Geplante Fertigungsmenge Copy Classic | St³ck | 40000.0 | 43000.0 | 43500.0
+  Row 33: Tatsõchliche Fertigungsmenge Copy Classic | St³ck | 40000.0 | 43000.0 | 43500.0
+  Row 34: Lagerendbestand Copy Classic | St³ck | 5000.0 | 5858.0 | 4032.0
+  Row 35: Auslastung Mitarbeiter | % | 99.34 | 99.87 | 97.32
+  Row 36: Auslastung Anlagen | % | 98.18 | 101.83 | 100.2
+  Row 39:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 40: Herstellkosten Copy Classic | EUR/St³ck | 2052.23 | 2075.82 | 2045.56
+  Row 41: Selbstkosten Copy Classic | EUR/St³ck | 2769.02 | 2929.65 | 2897.33
+  Row 42: Deckungsbeitrag V Copy Classic | EUR/St³ck | 230.98 | 240.35 | 302.67
+  Row 45:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 46: Betriebsergebnis | MEUR | 9.93 | 10.13 | 13.72
+  Row 47: Perioden³berschuss/-fehlbetrag | MEUR | 4.27 | 4.75 | 6.95
+  Row 48: Eigenkapital | MEUR | 31.27 | 35.03 | 40.98
+  Row 49: Eigenkapitalrendite | % | 15.27 | 15.19 | 19.85
+  Row 50: Umsatzrendite | % | 3.31 | 3.56 | 4.79
+  Row 51: Aktienkurs | EUR | 196.91 | 215.3 | 259.27
+  Row 54:   |   | Periode 0 | Periode 1 | Periode 2
+  Row 55: Kassenendbestand | MEUR | 0.85 | 10.1 | 19.34
+  Row 56: ▄berziehungskredit | MEUR | 0.0 | 0.0 | 0.0
+  Row 57: Finanzergebnis | MEUR | -2.16 | -1.49 | -1.08
+  Row 58: Fremdkapitalquote | % | 56.65 | 51.98 | 46.09
+  Row 59: Rating | Bonitõtsstufe | BBB | BBB | A
+
+--- Sheet: 2) Marktforschungsbericht (2 rows x 1 cols) ---
+  Row 0: Marktforschungsbericht
+  Row 1: Back to covering page
+
+--- Sheet: 3) Fertigungsbericht (84 rows x 8 cols) ---
+  Row 0: Fertigungsbericht |  |  |  |  |  |  | 
+  Row 1: Back to covering page |  |  |  |  |  |  | 
+  Row 3:   |   | Copy Classic |  |  |  |  | 
+  Row 4: Geplante Fertigungsmenge | St³ck | 43500.0 |  |  |  |  | 
+  Row 5: Tatsõchliche Fertigungsmenge | St³ck | 43500.0 |  |  |  |  | 
+  Row 7: Auslastung Anlagen | % | 100.2 |  |  |  |  | 
+  Row 8: Auslastung Mitarbeiter | % | 97.32 |  |  |  |  | 
+  Row 11:   | Beschaff.-Periode | Beschaffungswert | Restlaufzeit | Abschreibung | Restbuchwert | Sonstige fixe Kosten | Resterl÷s
+  Row 12:   |   | MEUR | Perioden | MEUR/Periode | MEUR | MEUR/Periode | % vom Buchwert
+  Row 13: Typ A Anlage Nr. 1 | -8.0 | 12.5 | 0.0 | 0.0 | 0.0 | 1.5 | 20.0
+  Row 14: Typ A Anlage Nr. 2 | -7.0 | 15.0 | 0.0 | 1.5 | 0.0 | 1.0 | 20.0
+  Row 15: Typ A Anlage Nr. 3 | -6.0 | 20.0 | 1.0 | 2.0 | 2.0 | 0.5 | 20.0
+  Row 16: Typ A Anlage Nr. 4 | -5.0 | 20.0 | 2.0 | 2.0 | 4.0 | 0.25 | 20.0
+  Row 17: Summe |   | 67.5 |   | 5.5 | 6.0 | 3.25 |  
+  Row 20:   | Normale Kapazitõt | Instandhaltung |  | Rationalisierung | Verf³gbare Kapazitõt | Umweltindex | 
+  Row 21:   | St³ck | MEUR | Faktor | Faktor | Einheit | Index | 
+  Row 22: Typ A Anlage Nr. 1 | 8000.0 | 1.0 | 0.95 | 1.09 | 8269.0 | 83.0 | 
+  Row 23: Typ A Anlage Nr. 2 | 9000.0 | 1.0 | 0.95 | 1.09 | 9302.0 | 90.0 | 
+  Row 24: Typ A Anlage Nr. 3 | 11500.0 | 1.0 | 0.95 | 1.09 | 11886.0 | 95.0 | 
+  Row 25: Typ A Anlage Nr. 4 | 13500.0 | 1.0 | 0.95 | 1.09 | 13954.0 | 98.0 | 
+  Row 26: Summe | 42000.0 | 4.0 |   |   | 43411.2 | 91.5 | 
+  Row 29: Maschinentyp | Faktor |  |  |  |  |  | 
+  Row 30: Typ A | 1.09 |  |  |  |  |  | 
+  Row 31: Typ B | 1.0 |  |  |  |  |  | 
+  Row 32: Typ C | 1.0 |  |  |  |  |  | 
+  Row 35: Umweltindex der Fertigungsanlagen | Index | 91.5 |  |  |  |  | 
+  Row 36: Kumulierte Investitionen in Umweltanlagen | MEUR | 6.5 |  |  |  |  | 
+  Row 37: Verbesserung der Umweltindizes | Punkte | 4.7 |  |  |  |  | 
+  Row 38: Umweltbelastungsindikator des Unternehmens | Index | 96.23 |  |  |  |  | 
+  Row 39: Umweltabgabe | MEUR | 0.8 |  |  |  |  | 
+  Row 42:   |   | Copy Classic | Gesamt |  |  |  | 
+  Row 43: Geplante Fertigungsmenge | St³ck | 43500.0 |   |  |  |  | 
+  Row 44: Kapazitõt der Anlagen (ohne ▄berstunden) | St³ck |   | 43411.0 |  |  |  | 
+  Row 45: Verf³gbare Fertigungskapazitõt (inklusive ▄berstunden) | St³ck |   | 47752.0 |  |  |  | 
+  Row 46: Tatsõchliche Fertigungsmenge | St³ck | 43500.0 |   |  |  |  | 
+  Row 47: Ben÷tigte Anlagenkapazitõt pro Fertigprodukt | Anzahl pro Produkt | 1.0 |   |  |  |  | 
+  Row 48: Ben÷tigte Anlagenkapazitõt Gesamt | St³ck | 43500.0 | 43500.0 |  |  |  | 
+  Row 49: Auslastung Anlagen | % |   | 100.2 |  |  |  | 
+  Row 52:   |   | Vorperiode | Aktuelle Periode |  |  |  | 
+  Row 53: Personalbestand | Anzahl | 884.0 | 891.0 |  |  |  | 
+  Row 54: - Fehlzeiten | Anzahl | 45.0 | 51.0 |  |  |  | 
+  Row 55: = Einsetzbares Personal | Anzahl | 839.0 | 840.0 |  |  |  | 
+  Row 58:   |   | Vorperiode | Aktuelle Periode |  |  |  | 
+  Row 59: Neue Mitarbeiter | % | 9.39 | 6.79 |  |  |  | 
+  Row 60: Prozessoptimierung | MEUR | 2.0 | 2.0 |  |  |  | 
+  Row 61: Trainingsausgaben pro Mitarbeiter | EUR | 1200.0 | 1200.0 |  |  |  | 
+  Row 62: Mitarbeitermotivation | Index | 50.79 | 63.03 |  |  |  | 
+  Row 64: Einarbeitungsindex | Index | 0.983 | 0.996 |  |  |  | 
+  Row 65: Î Prozessoptimierungsindex | Index | 1.027 | 1.044 |  |  |  | 
+  Row 66: Î Personalqualifizierungsindex | Index | 1.004 | 1.007 |  |  |  | 
+  Row 67: Î Motivationsindex | Index | 1.013 | 1.002 |  |  |  | 
+  Row 68: = Produktivitõtsindex I | Index | 1.026 | 1.049 |  |  |  | 
+  Row 71:   |   | Copy Classic |  |  |  |  | 
+  Row 72: Kumulierte Fertigung bis Vorperiode | St³ck | 83000.0 |  |  |  |  | 
+  Row 73: Produktivitõtsindex II | Index | 1.014 |  |  |  |  | 
+  Row 76:   |   | Copy Classic | Gesamt |  |  |  | 
+  Row 77: Einsetzbares Personal (ohne ▄berstunden) | Anzahl |   | 840.0 |  |  |  | 
+  Row 78: Einsetzbares Personal (inklusive ▄berstunden) | Anzahl | 924.0 |   |  |  |  | 
+  Row 79: Fertigungskapazitõt pro Mitarbeiter | St³ck/Periode | 53.21 |   |  |  |  | 
+  Row 80: Geplante Fertigungsmenge | St³ck | 43500.0 |   |  |  |  | 
+  Row 81: Tatsõchliche Fertigungsmenge | St³ck | 43500.0 |   |  |  |  | 
+  Row 82: Eingesetztes Personal (inklusive ▄berstunden) | Anzahl | 817.5 |   |  |  |  | 
+  Row 83: Auslastung Mitarbeiter | % |   | 97.32 |  |  |  | 
+
+--- Sheet: 4) Forschung & Entwicklung (16 rows x 3 cols) ---
+  Row 0: Forschung & Entwicklung |  | 
+  Row 1: Back to covering page |  | 
+  Row 3:   | Investitionen (MEUR) | Index
+  Row 4: Copy Classic Gen. 1 | 3.15 | 108.17
+  Row 5: Copy Classic Gen. 2 | 0.0 | 80.0
+  Row 8:   | Investitionen (MEUR) | Index
+  Row 9: Copy Classic Gen. 1 | 2.5 | 108.79
+  Row 10: Copy Classic Gen. 2 | 0.0 | 80.0
+  Row 13:   | Investitionen (MEUR) | Index
+  Row 14: Copy Classic Gen. 1 | 1.0 | 1.04
+  Row 15: Copy Classic Gen. 2 | 0.0 | 0.9
+
+--- Sheet: 5) Lager (29 rows x 4 cols) ---
+  Row 0: Lager |  |  | 
+  Row 1: Back to covering page |  |  | 
+  Row 3:   |   | Copy Classic | 
+  Row 4: Lagerendbestand Einsatzstoffe | St³ck | 1516.0 | 
+  Row 5: Lagerendbestand Fertigerzeugnisse | St³ck | 4032.0 | 
+  Row 8:   | Menge | Lagerwerte | 
+  Row 9:   | St³ck | EUR/St³ck | MEUR
+  Row 10: Lageranfangsbestand | 2843.0 | 542.42 | 1.54
+  Row 11: + Zugang von Lieferant | 40500.0 | 567.0 | 22.96
+  Row 12: + Nachlieferung | 0.0 | 804.0 | 0.0
+  Row 13: - Abgang an Fertigung | 41827.0 | 565.39 | 23.65
+  Row 14: = Lagerendbestand | 1516.0 | 565.39 | 0.86
+  Row 17:   | Menge | Lagerwerte | 
+  Row 18:   | St³ck | EUR/St³ck | MEUR
+  Row 19: Lageranfangsbestand | 5858.0 | 2072.8 | 12.14
+  Row 20: + Zugang von Fertigung | 43500.0 | 2045.56 | 88.98
+  Row 21: - Abgang an Vertrieb | 45326.0 | 2048.79 | 92.86
+  Row 22: = Lagerendbestand | 4032.0 | 2048.79 | 8.26
+  Row 25:   |   | Alle Produkte | 
+  Row 26: Einsatzstoffe/Teile Copy Classic | MEUR | 0.08 | 
+  Row 27: Fertigerzeugnisse Copy Classic | MEUR | 0.4 | 
+  Row 28: Gesamt | MEUR | 0.48 | 
+
+--- Sheet: 6) Personal (22 rows x 8 cols) ---
+  Row 0: Personal |  |  |  |  |  |  | 
+  Row 1: Back to covering page |  |  |  |  |  |  | 
+  Row 3:   |   | Einkauf | Verwaltung | Fertigung | F&E | Vertrieb | Summe
+  Row 4: Personalanfangsbestand | Anzahl | 21.0 | 211.0 | 884.0 | 60.0 | 100.0 | 1276.0
+  Row 5: + Einstellungen | Anzahl | 4.0 | 14.0 | 60.0 | 12.0 | 19.0 | 109.0
+  Row 6: - Entlassungen | Anzahl | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 7: - Fluktuation | Anzahl | 1.0 | 8.0 | 53.0 | 2.0 | 9.0 | 73.0
+  Row 8: = Personalendbestand | Anzahl | 24.0 | 217.0 | 891.0 | 70.0 | 110.0 | 1312.0
+  Row 11:   |   | Einkauf | Verwaltung | Fertigung | F&E | Vertrieb | Summe
+  Row 12: L÷hne/Gehõlter (*) | MEUR | 0.74 | 6.29 | 27.62 | 3.15 | 4.51 | 42.32
+  Row 13: Einstellungen/Entlassungen/Training | MEUR | 0.06 | 0.2 | 1.91 | 0.17 | 0.27 | 2.6
+  Row 14: Personalnebenkosten (*) | MEUR | 0.3 | 2.52 | 11.05 | 1.26 | 1.8 | 16.93
+  Row 15: Pensionsr³ckstellungen (*) | MEUR | 0.04 | 0.31 | 1.38 | 0.16 | 0.23 | 2.12
+  Row 16: Summe Personalkosten | MEUR | 1.13 | 9.32 | 41.96 | 4.74 | 6.81 | 63.96
+  Row 17: Trainingsma▀nahmen Fertigung | MEUR |   |   | 1.07 |   |   |  
+  Row 18: (*) ohne Kosten f³r ▄berstunden |  |  |  |  |  |  | 
+  Row 21: Personalnebenkosten in % der Gehõlter | 40.0 |  |  |  |  |  | 
+
+--- Sheet: 7) Kostenartenrechnung (31 rows x 4 cols) ---
+  Row 0: Kostenartenrechnung (MEUR) |  |  | 
+  Row 1: Back to covering page |  |  | 
+  Row 3:   | Summe | Gemeinkosten | Einzelkosten
+  Row 4:   |   |   | Copy Classic
+  Row 5: Materialkosten |   |   |  
+  Row 6: Einsatzstoffe/Teile | 23.65 | 0.0 | 23.65
+  Row 7: Betriebsstoffe | 2.0 | 0.0 | 2.0
+  Row 8: Personalkosten |   |   |  
+  Row 9: L÷hne/Gehõlter (*) | 42.32 | 16.98 | 25.34
+  Row 10: Einstellungen/Entlassungen/Training | 2.6 | 2.6 | 0.0
+  Row 11: Kosten Sozialplan | 0.0 | 0.0 | 0.0
+  Row 12: Personalnebenkosten | 16.93 | 6.79 | 10.14
+  Row 13: Pensionsr³ckstellungen | 2.12 | 0.85 | 1.27
+  Row 14: Abschreibungen |   |   |  
+  Row 15: Gebõude | 0.25 | 0.25 | 0.0
+  Row 16: Fertigungsanlagen | 5.5 | 5.5 | 0.0
+  Row 17: Umwelttechnik | 0.65 | 0.65 | 0.0
+  Row 18: Fertigerzeugnisse | 0.0 | 0.0 | 0.0
+  Row 19: Sonstige Kosten |   |   |  
+  Row 20: Sonstige fixe Kosten | 3.25 | 3.25 | 0.0
+  Row 21: Instandhaltung/Rationalisierung | 7.0 | 7.0 | 0.0
+  Row 22: Prozessoptimierung | 2.0 | 2.0 | 0.0
+  Row 23: Umweltabgabe | 0.8 | 0.8 | 0.0
+  Row 24: Nacharbeit/Ausschuss | 1.78 | 0.0 | 1.78
+  Row 25: Lagerkosten | 0.48 | 0.48 | 0.0
+  Row 26: Werbung/Marktforschung/Corporate Identity | 11.5 | 3.5 | 8.0
+  Row 27: Sonstige Kosten F&E | 3.5 | 0.0 | 3.5
+  Row 28: Transportkosten | 1.13 | 0.0 | 1.13
+  Row 29: Summe | 127.44 | 50.63 | 76.81
+  Row 30: (*) Mit Kosten f³r ▄berstunden |  |  | 
+
+--- Sheet: 8) Kostenstellenrechnung (30 rows x 7 cols) ---
+  Row 0: Kostenstellenrechnung (MEUR) |  |  |  |  |  | 
+  Row 1: Back to covering page |  |  |  |  |  | 
+  Row 3:   | Summe | Einkauf | Fertigung | F&E | Vertrieb | Verwaltung
+  Row 4: Materialkosten |   |   |   |   |   |  
+  Row 5: Einsatzstoffe/Teile | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 6: Betriebsstoffe | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 7: Personalkosten |   |   |   |   |   |  
+  Row 8: L÷hne/Gehõlter (*) | 16.98 | 0.74 | 2.28 | 3.15 | 4.51 | 6.29
+  Row 9: Einstellungen/Entlassungen/Training | 2.6 | 0.06 | 1.91 | 0.17 | 0.27 | 0.2
+  Row 10: Kosten Sozialplan | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 11: Personalnebenkosten | 6.79 | 0.3 | 0.91 | 1.26 | 1.8 | 2.52
+  Row 12: Pensionsr³ckstellungen | 0.85 | 0.04 | 0.11 | 0.16 | 0.23 | 0.31
+  Row 13: Abschreibungen |   |   |   |   |   |  
+  Row 14: Gebõude | 0.25 | 0.01 | 0.18 | 0.01 | 0.01 | 0.04
+  Row 15: Fertigungsanlagen | 5.5 | 0.0 | 5.5 | 0.0 | 0.0 | 0.0
+  Row 16: Umwelttechnik | 0.65 | 0.0 | 0.65 | 0.0 | 0.0 | 0.0
+  Row 17: Fertigerzeugnisse | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 18: Sonstige Kosten |   |   |   |   |   |  
+  Row 19: Sonstige fixe Kosten | 3.25 | 0.0 | 3.25 | 0.0 | 0.0 | 0.0
+  Row 20: Instandhaltung/Rationalisierung | 7.0 | 0.0 | 6.0 | 0.0 | 0.0 | 1.0
+  Row 21: Prozessoptimierung | 2.0 | 0.0 | 2.0 | 0.0 | 0.0 | 0.0
+  Row 22: Umweltabgabe | 0.8 | 0.0 | 0.8 | 0.0 | 0.0 | 0.0
+  Row 23: Nacharbeit/Ausschuss | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 24: Lagerkosten | 0.48 | 0.08 | 0.0 | 0.0 | 0.4 | 0.0
+  Row 25: Werbung/Marktforschung/Corporate Identity | 3.5 | 0.0 | 0.0 | 0.0 | 3.5 | 0.0
+  Row 26: Sonstige Kosten F&E | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 27: Transportkosten | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+  Row 28: Summe der Kosten | 50.63 | 1.22 | 23.58 | 4.75 | 10.72 | 10.36
+  Row 29: (*) Mit Kosten f³r ▄berstunden |  |  |  |  |  | 
+
+--- Sheet: 9) Kostentrõgerrechnung (36 rows x 4 cols) ---
+  Row 0: Kostentrõgerrechnung |  |  | 
+  Row 1: Back to covering page |  |  | 
+  Row 3: Kostenstelle | Allokation | Summe | Copy Classic
+  Row 4: + Einkauf | Einzelkosten | 25.65 | 25.65
+  Row 5: + Einkauf | Gemeinkosten | 1.22 | 1.22
+  Row 6: + Fertigung | Einzelkosten | 38.53 | 38.53
+  Row 7: + Fertigung | Gemeinkosten | 23.58 | 23.58
+  Row 8: = Herstellkosten |   | 88.98 | 88.98
+  Row 9: +/- Bestandverõnderung Fertigprodukte |   | 3.88 | 3.88
+  Row 10: = Herstellkosten des Umsatzes |   | 92.86 | 92.86
+  Row 11: + F&E | Einzelkosten | 3.5 | 3.5
+  Row 12: + F&E | Gemeinkosten | 4.75 | 4.75
+  Row 13: + Vertrieb | Einzelkosten | 9.13 | 9.13
+  Row 14: + Vertrieb | Gemeinkosten | 10.72 | 10.72
+  Row 15: + Verwaltung | Einzelkosten | 0.0 | 0.0
+  Row 16: + Verwaltung | Gemeinkosten | 10.36 | 10.36
+  Row 17: = Selbstkosten |   | 131.32 | 131.32
+  Row 20: Kostenstelle | Allokation | Copy Classic | 
+  Row 21: + Einkauf | Einzelkosten | 589.64 | 
+  Row 22: + Einkauf | Gemeinkosten | 28.12 | 
+  Row 23: + Fertigung | Einzelkosten | 885.65 | 
+  Row 24: + Fertigung | Gemeinkosten | 542.15 | 
+  Row 25: = Herstellkosten (*) |   | 2045.56 | 
+  Row 26: = Herstellkosten des Umsatzes (**) |   | 2048.79 | 
+  Row 27: + F&E | Einzelkosten | 77.22 | 
+  Row 28: + F&E | Gemeinkosten | 104.75 | 
+  Row 29: + Vertrieb | Einzelkosten | 201.5 | 
+  Row 30: + Vertrieb | Gemeinkosten | 236.54 | 
+  Row 31: + Verwaltung | Einzelkosten | 0.0 | 
+  Row 32: + Verwaltung | Gemeinkosten | 228.53 | 
+  Row 33: = Selbstkosten (**) |   | 2897.33 | 
+  Row 34: (*) Die Herstellkosten der Produktion werden in das Verhõltnis zur produzierten Menge gesetzt. |  |  | 
+  Row 35: (**) Die Herstellkosten des Umsatzes sowie die Selbstkosten werden in das Verhõltnis zur abgesetzten Menge gesetzt. |  |  | 
+
+--- Sheet: 10) Deckungsbeitragsrechnung (39 rows x 7 cols) ---
+  Row 0: Deckungsbeitragsrechnung |  |  |  |  |  | 
+  Row 1: Back to covering page |  |  |  |  |  | 
+  Row 3:   | Markt 1 | Gro▀abnehmer | Ausschreibung | Markt 2 | Sondermarkt | Summe
+  Row 4: Umsatzerl÷se | 145.04 | 0.0 | 0.0 | 0.0 | 0.0 | 145.04
+  Row 5: - Variable Materialkosten | 26.66 | 0.0 | 0.0 | 0.0 | 0.0 | 26.66
+  Row 6: - Variable Fertigungskosten | 40.31 | 0.0 | 0.0 | 0.0 | 0.0 | 40.31
+  Row 7: - Transportkosten | 1.13 | 0.0 | 0.0 | 0.0 | 0.0 | 1.13
+  Row 8: = Deckungsbeitrag I | 76.93 | 0.0 | 0.0 | 0.0 | 0.0 | 76.93
+  Row 9: - Fixe Materialkosten | 1.27 | 0.0 | 0.0 | 0.0 | 0.0 | 1.27
+  Row 10: - Fixe Fertigungskosten | 24.61 | 0.0 | 0.0 | 0.0 | 0.0 | 24.61
+  Row 11: = Deckungsbeitrag II | 51.05 | 0.0 | 0.0 | 0.0 | 0.0 | 51.05
+  Row 12: - Werbungskosten | 8.0 | 0.0 | 0.0 | 0.0 | 0.0 | 8.0
+  Row 13: = Deckungsbeitrag III | 43.05 | 0.0 | 0.0 | 0.0 | 0.0 | 43.05
+  Row 14: - Entwicklungskosten | 3.5 | 0.0 | 0.0 | 0.0 | 0.0 | 3.5
+  Row 15: = Deckungsbeitrag IV | 39.55 | 0.0 | 0.0 | 0.0 | 0.0 | 39.55
+  Row 16: - Forschungskosten |   |   |   |   |   | 4.75
+  Row 17: - Vertriebskosten |   |   |   |   |   | 10.72
+  Row 18: - Verwaltungskosten |   |   |   |   |   | 10.36
+  Row 19: = Deckungsbeitrag V |   |   |   |   |   | 13.72
+  Row 22:   | Markt 1 | Gro▀abnehmer | Ausschreibung | Markt 2 | Sondermarkt | °-Wert
+  Row 23: Preis | 3200.0 | 0.0 | 0.0 | 0.0 | 0.0 | 3200.0
+  Row 24: - Variable Materialkosten | 588.21 | 0.0 | 0.0 | 0.0 | 0.0 | 588.21
+  Row 25: - Variable Fertigungskosten | 889.42 | 0.0 | 0.0 | 0.0 | 0.0 | 889.42
+  Row 26: - Transportkosten | 25.0 | 0.0 | 0.0 | 0.0 | 0.0 | 25.0
+  Row 27: = Deckungsbeitrag I | 1697.37 | 0.0 | 0.0 | 0.0 | 0.0 | 1697.37
+  Row 28: - Fixe Materialkosten | 28.1 | 0.0 | 0.0 | 0.0 | 0.0 | 28.1
+  Row 29: - Fixe Fertigungskosten | 543.06 | 0.0 | 0.0 | 0.0 | 0.0 | 543.06
+  Row 30: = Deckungsbeitrag II | 1126.21 | 0.0 | 0.0 | 0.0 | 0.0 | 1126.21
+  Row 31: - Werbungskosten | 176.5 | 0.0 | 0.0 | 0.0 | 0.0 | 176.5
+  Row 32: = Deckungsbeitrag III | 949.71 | 0.0 | 0.0 | 0.0 | 0.0 | 949.71
+  Row 33: - Entwicklungskosten | 77.22 | 0.0 | 0.0 | 0.0 | 0.0 | 77.22
+  Row 34: = Deckungsbeitrag IV | 872.49 | 0.0 | 0.0 | 0.0 | 0.0 | 872.49
+  Row 35: - Forschungskosten |   |   |   |   |   | 104.75
+  Row 36: - Vertriebskosten |   |   |   |   |   | 236.54
+  Row 37: - Verwaltungskosten |   |   |   |   |   | 228.53
+  Row 38: = Deckungsbeitrag V |   |   |   |   |   | 302.67
+
+--- Sheet: 11) Gewinn- und Verlustrechnung (45 rows x 3 cols) ---
+  Row 0: Gewinn- und Verlustrechnung |  | 
+  Row 1: Back to covering page |  | 
+  Row 3:   | MEUR | % vom Umsatz
+  Row 4: Umsatzerl÷se | 145.04 | 100.0
+  Row 5: + Sonstige Ertrõge | 0.0 | 0.0
+  Row 6: + Erh÷hung/Verminderung des Bestandes an Fertigerzeugnissen | -3.88 | -2.68
+  Row 7: - Materialaufwand | 25.65 | 17.68
+  Row 8: - Personalaufwand | 63.96 | 44.09
+  Row 9: - L÷hne/Gehõlter | 42.32 |  
+  Row 10: - Einstellungskosten/Entlassungskosten | 1.53 |  
+  Row 11: - Pensionsr³ckstellungen | 2.12 |  
+  Row 12: - Sonstige Personalkosten | 18.0 |  
+  Row 13: - Abschreibungen | 6.4 | 4.41
+  Row 14: - Sonstiger Aufwand | 31.44 | 21.67
+  Row 15: = Betriebsergebnis | 13.72 | 9.46
+  Row 18:   | MEUR | 
+  Row 19: Umsatzerl÷se | 145.04 | 
+  Row 20: + Sonstige Ertrõge | 0.0 | 
+  Row 21: - Herstellkosten des Umsatzes | 92.86 | 
+  Row 22: - F&E | 8.25 | 
+  Row 23: - Vertrieb | 19.85 | 
+  Row 24: - Verwaltung | 10.36 | 
+  Row 25: = Betriebsergebnis | 13.72 | 
+  Row 28:   | MEUR | % vom Umsatz
+  Row 29: Betriebsergebnis | 13.72 | 9.46
+  Row 30: - Finanzergebnis | -1.08 | -0.74
+  Row 31: + Ertrõge aus Wertpapieren | 0.0 | 0.0
+  Row 32: - Zinsen f³r kurz- und langfristige Kredite | 1.08 | 0.74
+  Row 33: - Zinsen f³r ▄berziehungskredit | 0.0 | 0.0
+  Row 34: = Gewinn vor Steuern | 12.64 | 8.71
+  Row 35: - Steuern auf Einkommen und Ertrag | 5.69 | 3.92
+  Row 36: = Perioden³berschuss/-fehlbetrag | 6.95 | 4.79
+  Row 39:   | MEUR | 
+  Row 40: Gewinn-/Verlustvortrag der Vorperiode | 10.03 | 
+  Row 41: - Aussch³ttung Dividende Aktuelle Periode | 1.0 | 
+  Row 42: = Verbleibender Gewinn-/Verlustvortrag | 9.03 | 
+  Row 43: + Perioden³berschuss/-fehlbetrag | 6.95 | 
+  Row 44: = Gewinn-/Verlustvortrag | 15.98 | 
+
+--- Sheet: 12) Liquiditõtsrechnung (44 rows x 2 cols) ---
+  Row 0: Liquiditõtsrechnung | 
+  Row 1: Back to covering page | 
+  Row 3:   | MEUR
+  Row 4: Kassenanfangsbestand | 10.1
+  Row 7:   | MEUR
+  Row 8: Einzahlungen aus Umsatz Aktuelle Periode | 116.03
+  Row 9: Einzahlungen aus Umsatz Vorperiode | 26.72
+  Row 10: Verkauf von Wertpapieren | 0.0
+  Row 11: Zinsertrõge | 0.0
+  Row 12: Sonstige Einzahlungen/Kapitalerh÷hung | 0.0
+  Row 13: Desinvestitionen Fertigungsanlagen | 0.0
+  Row 14: Aufnahme kurzfristige und langfristige Kredite | 12.0
+  Row 15: Erl÷s Sondermarkt | 0.0
+  Row 16: ▄berziehungskredit | 0.0
+  Row 17: Summe Einzahlungen | 154.75
+  Row 20:   | MEUR
+  Row 21: Einsatzstoffe, Betriebsstoffe, Fertigerzeugnisse | 24.96
+  Row 22: Einkauf Vorperiode | 0.0
+  Row 23: Personalkosten (ohne BAV) | 61.84
+  Row 24: Sonstige Aufwendungen | 31.44
+  Row 25: R³ckzahlung kurzfristige Kredite & ▄berziehungskredit | 17.0
+  Row 26: Zinsaufwand kurzfristige und langfristige Kredite | 1.08
+  Row 27: Kauf von Fertigungsanlagen | 0.0
+  Row 28: Kauf von Wertpapieren | 0.0
+  Row 29: Kauf von Umweltanlagen | 2.5
+  Row 30: Auszahlung Dividende | 1.0
+  Row 31: Sonstige Auszahlungen | 0.0
+  Row 32: Steuern auf Einkommen und Ertrag | 5.69
+  Row 33: Zinszahlung ▄berziehungskredit | 0.0
+  Row 34: Summe Auszahlungen | 145.51
+  Row 37:   | MEUR
+  Row 38: Kassenendbestand | 19.34
+  Row 41:   | % in der aktuelle Periode
+  Row 42: Kunden Markt 1 Markt 2 (Einzahlungen) | 80.0
+  Row 43: Lieferant Einsatzstoffe Copy Classic (Auszahlungen) | 100.0
+
+--- Sheet: 13) Cashflow Statement (21 rows x 2 cols) ---
+  Row 0: Cashflow Statement | 
+  Row 1: Back to covering page | 
+  Row 3:   | MEUR
+  Row 4: Perioden³berschuss/-fehlbetrag | 6.95
+  Row 5: + Abschreibung auf Anlageverm÷gen | 6.4
+  Row 6: + Erh÷hung der Pensionr³ckstellungen | 2.12
+  Row 7: Traditioneller Cashflow | 15.47
+  Row 8: + Erh÷hung(-) /Abbau(+) Vorrõte an Materialien | 0.68
+  Row 9: + Erh÷hung(-) /Abbau(+) Vorrõte an Fertige Erzeugnisse | 3.88
+  Row 10: + Erh÷hung(-) /Abbau(+) Vorrõte an Forderungen aus Lieferungen und Leistungen | -2.29
+  Row 11: A. Operativer Cashflow | 17.74
+  Row 12: + Investitionen in Anlageverm÷gen | -2.5
+  Row 13: B. Cashflow aus Investitionstõtigkeiten | -2.5
+  Row 14: + Kapitalerh÷hungen | 0.0
+  Row 15: + Zahlung Dividende aus Vorperiode | -1.0
+  Row 16: + Erh÷hung(-) / Abbau(+) der Wertpapiere | 0.0
+  Row 17: + Erh÷hung(+) / Abbau(-) der Bankverbindlichkeiten | -5.0
+  Row 18: C. Cashflow aus Finanzierungstõtigkeit | -6.0
+  Row 19: D. Verõnderung des Kassenbestandes (A+B+C) | 9.24
+  Row 20: Free Cashflow (A+B) | 15.24
+
+--- Sheet: 14) Bilanz (18 rows x 6 cols) ---
+  Row 0: Bilanz |  |  |  |  | 
+  Row 1: Back to covering page |  |  |  |  | 
+  Row 3: Aktiva (MEUR) |   |   | Passiva (MEUR) |   |  
+  Row 4:   | Aktuelle Periode | Vorperiode |   | Aktuelle Periode | Vorperiode
+  Row 5: Anlageverm÷gen | 18.55 | 22.45 | Eigenkapital | 40.98 | 35.03
+  Row 6: Grundst³cke und Bauten | 7.25 | 7.5 | Gezeichnetes Kapital | 15.0 | 15.0
+  Row 7: Maschinen und Betriebsaustattung | 11.3 | 14.95 | Kapitalr³cklage | 2.5 | 2.5
+  Row 8: Umlaufverm÷gen | 57.47 | 50.5 | Gewinnr³cklage | 7.5 | 7.5
+  Row 9: Materialien | 0.86 | 1.54 | Gewinn-/Verlustvortrag | 9.03 | 5.27
+  Row 10: Fertige Erzeugnisse | 8.26 | 12.14 | Perioden³berschuss/-fehlbetrag | 6.95 | 4.75
+  Row 11: Forderungen aus Lieferungen & Leistungen | 29.01 | 26.72 | Pensionsr³ckstellungen | 18.04 | 15.92
+  Row 12: Wertpapiere | 0.0 | 0.0 | Pensionsr³ckstellungen | 18.04 | 15.92
+  Row 13: Kassenbestand | 19.34 | 10.1 | Verbindlichkeiten | 17.0 | 22.0
+  Row 14:   |   |   | Restlaufzeit ³ber 10 Perioden | 5.0 | 5.0
+  Row 15:   |   |   | Restlaufzeit unter 1 Periode | 12.0 | 17.0
+  Row 16:   |   |   | ▄berziehungskredit | 0.0 | 0.0
+  Row 17: Bilanzsumme | 76.02 | 72.95 |   | 76.02 | 72.95
+
+--- Sheet: 15) Geschõftsbericht (46 rows x 5 cols) ---
+  Row 0: Geschõftsbericht der Branche |  |  |  | 
+  Row 1: Back to covering page |  |  |  | 
+  Row 3:   | U1 | U2 | U3 | U4
+  Row 4: Umsatzerl÷se | 145.02 | 155.7 | 145.04 | 159.25
+  Row 5: + Sonstige Ertrõge | 0.0 | 0.0 | 0.0 | 0.0
+  Row 6: - Herstellkosten des Umsatzes | 96.44 | 100.14 | 92.86 | 107.46
+  Row 7: - F&E | 7.18 | 5.89 | 8.25 | 4.65
+  Row 8: - Vertrieb | 17.16 | 18.14 | 19.85 | 18.17
+  Row 9: - Verwaltung | 10.33 | 10.6 | 10.36 | 10.74
+  Row 10: = Betriebsergebnis | 13.91 | 20.93 | 13.72 | 18.23
+  Row 11: + Finanzergebnis | -2.61 | -0.72 | -1.08 | -1.33
+  Row 12: = Gewinn vor Steuern | 11.3 | 20.2 | 12.64 | 16.91
+  Row 13: - Steuern auf Einkommen und Ertrag | 5.09 | 9.09 | 5.69 | 7.61
+  Row 14: = Perioden³berschuss/-fehlbetrag | 6.22 | 11.11 | 6.95 | 9.3
+  Row 17:   | U1 | U2 | U3 | U4
+  Row 18: Aktiva |   |   |   |  
+  Row 19: Anlageverm÷gen | 39.8 | 38.65 | 18.55 | 37.4
+  Row 20: Grundst³cke und Bauten | 7.25 | 7.25 | 7.25 | 7.25
+  Row 21: Maschinen und Betriebsaustattung | 32.55 | 31.4 | 11.3 | 30.15
+  Row 22: Umlaufverm÷gen | 42.75 | 37.85 | 57.47 | 33.68
+  Row 23: Materialien | 10.48 | 4.58 | 0.86 | 1.73
+  Row 24: Fertige Erzeugnisse | 3.16 | 2.03 | 8.26 | 0.0
+  Row 25: Forderungen aus Lieferungen & Leistungen | 29.0 | 31.14 | 29.01 | 31.85
+  Row 26: Wertpapiere | 0.0 | 0.0 | 0.0 | 0.0
+  Row 27: Kassenbestand | 0.1 | 0.1 | 19.34 | 0.1
+  Row 28: Bilanzsumme | 82.55 | 76.5 | 76.02 | 71.08
+  Row 31:   | U1 | U2 | U3 | U4
+  Row 32: Passiva |   |   |   |  
+  Row 33: Eigenkapital | 41.93 | 46.69 | 40.98 | 39.86
+  Row 34: Gezeichnetes Kapital | 15.0 | 15.0 | 15.0 | 15.0
+  Row 35: Kapitalr³cklage | 2.5 | 2.5 | 2.5 | 2.5
+  Row 36: Gewinnr³cklage | 7.5 | 7.5 | 7.5 | 7.5
+  Row 37: Gewinn-/Verlustvortrag | 10.71 | 10.58 | 9.03 | 5.56
+  Row 38: Perioden³berschuss/-fehlbetrag | 6.22 | 11.11 | 6.95 | 9.3
+  Row 39: Pensionsr³ckstellungen | 17.93 | 18.16 | 18.04 | 18.37
+  Row 40: Pensionsr³ckstellungen | 17.93 | 18.16 | 18.04 | 18.37
+  Row 41: Verbindlichkeiten | 22.69 | 11.65 | 17.0 | 12.85
+  Row 42: Restlaufzeit ³ber 10 Perioden | 0.0 | 0.0 | 5.0 | 0.0
+  Row 43: Restlaufzeit unter 1 Periode | 0.0 | 10.0 | 12.0 | 3.0
+  Row 44: ▄berziehungskredit | 22.69 | 1.65 | 0.0 | 9.85
+  Row 45: Bilanzsumme | 82.55 | 76.5 | 76.02 | 71.08
+
+--- Sheet: 16) Unternehmenskennzahlen (22 rows x 5 cols) ---
+  Row 0: Unternehmenskennzahlen |  |  |  | 
+  Row 1: Back to covering page |  |  |  | 
+  Row 3:   |   | Vorperiode | Aktuelle Periode | 
+  Row 4: Kreditrating Aktuelle Periode | Stufe | BBB | A | 
+  Row 5: ─nderung Fremdkapitalzins (*) | +/- % | -1.0 | -1.0 | 
+  Row 6: (*) Wird durch das Kreditrating der Vorperiode bestimmt |  |  |  | 
+  Row 9: Einflussfaktor | Einheit | Gewicht, % | Input | Output (*), Punkte
+  Row 10: Abweichung Tatsõchlicher Absatz (**) | %, relativ zu Planwert | 50.0 | - | 96.44
+  Row 11: Abweichung Eigenkapitalrendite | %, abs. zu Planwert | 25.0 | 3.85 | 96.15
+  Row 12: Abweichung A. Operativer Cashflow | MEUR, abs. zu Planwert | 25.0 | 4.26 | 94.49
+  Row 13: Planungsqualitõt | Index |   |   | 95.88
+  Row 14: (*) Ungewichtet |  |  |  | 
+  Row 15: (**) Aggregiert f³r alle Mõrkte |  |  |  | 
+  Row 18:   |   | Vorperiode | Aktuelle Periode | 
+  Row 19: Aktienkurs | EUR | 215.3 | 259.27 | 
+  Row 20: Unternehmenswert | MEUR | 107.65 | 129.63 | 
+  Row 21: Shareholder Earnings Kumuliert | MEUR | 11.2 | 34.18 | 
+
+--- Sheet: 17) Entscheidungsprotokoll (63 rows x 6 cols) ---
+  Row 0: Entscheidungsprotokoll |  |  |  |  | 
+  Row 1: Back to covering page |  |  |  |  | 
+  Row 3:   |   |   | P 0 | P 1 | P 2
+  Row 4: Preis Markt 1 | Copy Classic | EUR | 3000.0 | 3170.0 | 3200.0
+  Row 5: Werbung Markt 1 | Copy Classic | MEUR | 6.0 | 7.0 | 8.0
+  Row 6: Vertrieb Personalendbestand | Markt 1 | Anzahl | 100.0 | 100.0 | 110.0
+  Row 7: Corporate Identity |   | MEUR | 2.0 | 3.5 | 3.5
+  Row 8: Aktiv auf Markt 1 | Copy Classic |   | Ja | Ja | Ja
+  Row 11:   |   |   | P 0 | P 1 | P 2
+  Row 12: Technologie Personalendbestand | Copy Classic | Anzahl | 35.0 | 60.0 | 70.0
+  Row 13: Íkologie | Copy Classic | MEUR | 2.5 | 2.5 | 2.5
+  Row 14: Wertanalyse | Copy Classic | MEUR | 1.0 | 1.0 | 1.0
+  Row 17:   |   |   | P 0 | P 1 | P 2
+  Row 18: Gro▀abnehmer | Copy Classic | St³ck | 0.0 | 0.0 | 0.0
+  Row 19: Ausschreibung | Copy Classic | EUR/St³ck | 0.0 | 0.0 | 3200.0
+  Row 22:   | P 0 | P 1 | P 2 |  | 
+  Row 23: Marktforschungsbericht | Ja | Ja | Nein |  | 
+  Row 26:   |   |   | P 0 | P 1 | P 2
+  Row 27: Einsatzstoffe/Teile | Copy Classic | Einheit | 30000.0 | 30000.0 | 40500.0
+  Row 28: Fertigungsmenge | Copy Classic | St³ck | 40000.0 | 43000.0 | 43500.0
+  Row 31:   |   |   | P 0 | P 1 | P 2
+  Row 32: Investition (Anz. neue Anlagen) | Typ A |   | 0.0 | 0.0 | 0.0
+  Row 33: Investition (Anz. neue Anlagen) | Typ B |   | 0.0 | 0.0 | 0.0
+  Row 34: Investition (Anz. neue Anlagen) | Typ C |   | 0.0 | 0.0 | 0.0
+  Row 35: Desinvestitionen |   | Anlage Nr. |   |   |  
+  Row 36: Instandhaltung pro Fertigungsanlage | Typ A | MEUR | 1.5 | 1.0 | 1.0
+  Row 37: Instandhaltung pro Fertigungsanlage | Typ B | MEUR | 0.0 | 0.0 | 0.0
+  Row 38: Instandhaltung pro Fertigungsanlage | Typ C | MEUR | 0.0 | 0.0 | 0.0
+  Row 39: Budget Rationalisierung | Typ A | MEUR | 0.0 | 2.0 | 2.0
+  Row 40: Budget Rationalisierung | Typ B | MEUR | 0.0 | 0.0 | 0.0
+  Row 41: Budget Rationalisierung | Typ C | MEUR | 0.0 | 0.0 | 0.0
+  Row 44:   |   | P 0 | P 1 | P 2 | 
+  Row 45: Investition in Umweltanlagen | MEUR | 1.5 | 2.5 | 2.5 | 
+  Row 46: Prozessoptimierung | MEUR | 0.0 | 2.0 | 2.0 | 
+  Row 47: Einstellungen/Entlassungen Fertigungspersonal | Anzahl | 50.0 | 80.0 | 60.0 | 
+  Row 48: Training pro Mitarbeiter | EUR | 1000.0 | 1200.0 | 1200.0 | 
+  Row 49: Personalnebenkosten | % | 40.0 | 40.0 | 40.0 | 
+  Row 52:   |   | P 0 | P 1 | P 2 | 
+  Row 53: Kurzfristiger Kredit | MEUR | 27.0 | 17.0 | 12.0 | 
+  Row 54: Langfristiger Kredit | MEUR | 0.0 | 5.0 | 0.0 | 
+  Row 55: Kauf von Wertpapieren | MEUR | 0.0 | 0.0 | 0.0 | 
+  Row 56: Dividende absolut | MEUR | 1.0 | 1.0 | 1.0 | 
+  Row 59:   |   |   | P 0 | P 1 | P 2
+  Row 60: Geplanter Absatz Copy Classic | Markt 1 | St³ck | 43000.0 | 43000.0 | 47000.0
+  Row 61: Geplante Eigenkapitalrendite |   | % | 16.0 | 16.0 | 16.0
+  Row 62: Geplanter Operativer Cashflow |   | MEUR | 16.0 | 14.5 | 22.0
+
+--- Sheet: Worksheet (0 rows x 0 cols) ---
+
+================================================================================
+FILE: c:\Users\Bastian\OneDrive\Hochschule\Sechstes Semester\Business Simulation\Finance Tool\TOPSIM_Planungstool_V8.xlsx
+================================================================================
+Error opening: [Errno 13] Permission denied: 'c:\\Users\\Bastian\\OneDrive\\Hochschule\\Sechstes Semester\\Business Simulation\\Finance Tool\\TOPSIM_Planungstool_V8.xlsx'
