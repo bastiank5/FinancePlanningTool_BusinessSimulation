@@ -1,0 +1,1142 @@
+ 
+  
+ 
+▶   
+Teilnehmerhandbuch  
+ 
+ 
+Version 15.6   
+Mastering Business Operations  
+ 
+ Inhalt 
+2 © TOPSIM Inhaltsverzeichnis 
+ Was ist Mastering Business Operations?............................................................................................ 4  
+1.1 Lernziele von Mastering Business Operations ........................................................................................... 4  
+1.2 Ablauf des Seminars ..................................................................................................................................... 5  
+ Ausgangssituation ................................................................................................................................. 6  
+2.1 Artikel aus einer großen deutschen Tageszeitung ..................................................................................... 6  
+2.2 Das Unternehmen .......................................................................................................................................... 7  
+ Die Entscheidungsbereiche .................................................................................................................. 8  
+3.1 Vertrieb ........................................................................................................................................................... 8  
+3.1.1 Marketing-Mix ...................................................................................................................................... 8  
+3.1.2 Produktbeschreibung und Produktpolitik .............................................................................................. 9  
+3.1.3 Preispolitik .......................................................................................................................................... 10  
+3.1.4 Kommunikationspolitik ....................................................................................................................... 11  
+3.1.5 Distributionspolitik .............................................................................................................................. 13  
+3.1.6 Weitere Absatzkanäle ........................................................................................................................ 14  
+3.1.7 Lieferunfähigkeit ................................................................................................................................. 14  
+3.1.8 Kundenzufriedenheit .......................................................................................................................... 15  
+3.1.9 Marktforschungsbericht ...................................................................................................................... 15  
+3.2 Forschung & Entwicklung (F&E) ................................................................................................................ 15  
+3.3 Einkauf ......................................................................................................................................................... 17  
+3.3.1 Bedarf und Konditionen ...................................................................................................................... 17  
+3.3.2 Lager Fertigprodukte und Einsatzstoffe ............................................................................................. 17  
+3.4 Fertigung ...................................................................................................................................................... 19  
+3.4.1 Bestand an Fertigungsanlagen .......................................................................................................... 19  
+3.4.2 Anpassung von Fertigungskapazitäten .............................................................................................. 20  
+3.4.3 Umweltindex der Fertigungsanlagen .................................................................................................. 22  
+3.4.4 Nacharbeit .......................................................................................................................................... 23  
+3.4.5 Betriebsstoffe ..................................................................................................................................... 24  
+3.5 Personal ....................................................................................................................................................... 25  
+3.5.1 Personalbestand in der Ausgangssituation ........................................................................................ 25  
+3.5.2 Anpassung des Personalbestandes ................................................................................................... 25  
+3.5.3 Personalnebenkosten ........................................................................................................................ 26  
+3.5.4 Betriebliche Altersvorsorge ................................................................................................................ 27  
+3.5.5 Sozialplan .......................................................................................................................................... 27  
+3.5.6 Motivation der Fertigungsmitarbeiter .................................................................................................. 27  
+3.5.7 Produktivität ....................................................................................................................................... 28  
+3.5.8 Fehlzeiten .......................................................................................................................................... 30  
+3.6 Finanz- und Rechnungswesen ................................................................................................................... 30  
+3.6.1 Zahlungsverhalten der Kunden .......................................................................................................... 30  
+3.6.2 Kredite ................................................................................................................................................ 30  
+3.6.3 Finanzinvestitionen ............................................................................................................................ 31  
+3.6.4 Rating ................................................................................................................................................. 31  
+3.6.5 Steuern auf Einkommen & Ertrag....................................................................................................... 33  
+3.6.6 Wechselkurs ...................................................................................................................................... 33  
+Inhalt 
+3 © TOPSIM 3.6.7 Dividendenzahlung............................................................................................................................. 33
+3.6.8 Aktienkurs und Unternehmenswert .................................................................................................... 34
+3.6.9 Shareholder Earnings ........................................................................................................................ 34
+3.6.10 Geschäftsberichte der Branche .......................................................................................................... 34
+3.6.11 Rechnungswesen............................................................................................................................... 35
+Hinweis: Aus Gründen der leichteren Lesbarkeit wird im Folgenden die männliche Sprachform bei personenbezogenen 
+Substantiven und Pronomen verwendet. Dies impliziert keine Benachteiligung der weiblichen oder anderer 
+Geschlechteridentitäten, sondern soll im Sinne der sprachlichen Vereinfachung als geschlechtsneutral zu verstehen sein. 
+ 
+ 
+4 © TOPSIM Was ist Mastering Business Operations? 
+ Was ist Mastering Business Operations? 
+Mit Mastering Business Operations steht Ihnen ein anspruchsvolles, computergestütztes 
+Unternehmensplanspiel zur Verfügung. Sie bilden zusammen mit Ihren Mitspielern ein Unternehmerteam, 
+welches für die Führung eines Unternehmens in der Druck- und Kopiererbranche verantwortlich ist. Die 
+Simulation stellt ein realistisches Modell eines Industrieunternehmens dar und ermöglicht den Spielern 
+ schnelle, 
+ risikofreie, 
+ praktische Erfahrung, 
+ mit einem anhaltenden Lerneffekt. 
+Das Planspiel ist eine interaktive Lehr- und Lernmethode (action learning)  nach dem Prinzip: 
+ 
+1.1 Lernziele von Mastering Business Operations 
+ Rahmenbedingungen für wirtschaftlichen Erfolg erkennen und formulieren  
+ Ganzheitliches Erleben von betriebswirtschaftlichen Zusammenhängen  
+ Bereichsübergreifendes Denken und Handeln üben  
+ Festlegen und Umsetzen von Zielen und Strategien in einem dynamischen Wettbewerbsumfeld  
+ Grundlagen des Marketings beherrschen  
+ Betriebswirtschaftliches „Zahlenmaterial“ verstehen und in praxisbezogene Entscheidungen umsetzen  
+ Instrumente der Kosten- und Leistungsrechnung anwenden (z. B. Produktkalkulation)  
+ Umgang mit komplexen Entscheidungssituationen unter Unsicherheit erlernen  
+ Übersicht und Durchblick in schwierigen Fragestellungen behalten  
+ Problemstrukturierungs- und Problemlösefähigkeit erlernen  
+ Blick für das Wesentliche und Ganze entwickeln  
+ Effiziente Kommunikation durch Visualisierung nutzen  
+ Entscheidungsfindung im Team und unter Einsatz von IT-gestützten Planungsmodellen erleben  
+  
+
+ 
+ 
+5 © TOPSIM Was ist Mastering Business Operations? 
+1.2 Ablauf des Seminars 
+Das Planspiel-Seminar Mastering Business Operations ist in verschiedene Phasen gegliedert. Als Teilnehmer 
+müssen Sie in den Entscheidungsphasen  die operativen Entscheidungen für Ihr Unternehmen treffen. In den 
+Auswertungsphasen  analysieren Sie die Ergebnisse der Vorperiode und überprüfen Ihre generelle 
+Spielstrategie. In der Regel wird Ihr Seminarleiter zwischen diesen Phasen die Ergebnisse des Planspiels in 
+Theorieeinheiten  erläutern und weiter vertiefen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Einführung in die 
+Simulation 
+1. Entscheidungsfindung 
+im Team 
+2. Abgabe der 
+Entscheidungen 
+ 
+3. Simulation durch 
+den Seminarleiter 
+4. Auswertung der 
+Entscheidungen 
+ 
+ 
+6 © TOPSIM Ausgangssituation 
+ Ausgangssituation 
+2.1 Artikel aus einer großen deutschen Tageszeitung  
+  
+Willkommen bei der Veloce AG! 
+Turbulente Zeiten bei der COPYFIX AG 
+Alter Vorstand wird trotz zufriedenstellendem Ergebnis abgelöst – 
+Neuer Vorstand in den Startlöchern 
+ 
+Gerüchte um eine Neubesetzung kamen insbesondere im Vorfeld der 
+Jahreshauptversammlung immer wieder auf. Nur wenige Tage nach der 
+Jahreshauptversammlung gab der Aufsichtsratsvorsitzende der COPYFIX AG, 
+Michael Müller, gestern auf einer kurzfristig anberaumten Pressekonferenz die 
+Ablösung des bisherigen Vorstandes bekannt. Dabei präsentierte Müller bereits 
+die neuen Vorstandsmitglieder der Öffentlichkeit.  
+ 
+„Von den reinen Fakten gesehen, kommt die Neubesetzung sicherlich 
+überraschend”, so Müller auf der Pressekonferenz. Denn das vergangene 
+Geschäftsjahr verlief für die COPYFIX AG recht zufriedenstellend. Der 
+Farbkopierer COPY Classic ist nach wie vor sehr gefragt bei den Kunden. Das 
+Unternehmen weist ähnliche Ergebnisse und Marktanteile wie seine Konkurrenz 
+auf.  
+ 
+Doch warum wurde der alte Vorstand abgelöst? Müller begründete die 
+Entscheidung folgendermaßen: „Der alte Vorstand konnte dem Aufsichtsrat keine 
+zufriedenstellende Strategie für ein langfristiges, nachhaltiges Wachstum der 
+COPYFIX AG präsentieren.“ Veraltete Fertigungsanlagen mit unzureichenden 
+Umweltstandards, der einseitige Vertriebskanal und eine sehr konservative 
+Marketing-Strategie seien nur einige der vielen Punkte, die befürchten lassen, dass 
+COPYFIX den zukünftigen Anforderungen des komplexen Umfeldes nicht 
+gewachsen ist. 
+  
+Mehrere renommierte Branchenexperten haben wiederholt die Visionen und die 
+wirtschaftliche Kompetenz des Managements angezweifelt. Auch die Mehrheit der 
+Analysten teilt die Einschätzung der Branchenexperten. „Dieses negative 
+Feedback der Analysten war ein klares Signal für uns zu handeln“, so Müller. Der 
+Aufsichtsrat geht davon aus, dass das neue Management „alles dafür tun wird, der 
+COPYFIX AG zu einem nachhaltigen Wachstum zu verhelfen“. Die Zukunft wird 
+zeigen, ob der neue Vorstand die richtigen Entscheidungen treffen wird. 
+ Willkommen bei der COPYFIX AG! 
+
+ 
+ 
+7 © TOPSIM Ausgangssituation 
+2.2 Das Unternehmen 
+Aus dem Internetauftritt der COPYFIX AG lassen sich folgende Informationen über die einzelnen 
+Geschäftsbereiche des Unternehmens entnehmen: 
+Vertrieb  Unser Vertrieb bildet die Schnittstelle zwischen unseren Kunden und dem 
+Unternehmen.  
+ Hier werden die Weichen für eine zielgerichtete Kundenansprache durch unsere 
+absatzpolitischen Instrumente gestellt.  
+ Der Vertrieb dient als kompetenter Ansprechpartner bei Fragen zu unseren 
+Produkten für Kunden und Händler.  
+Forschung & 
+Entwicklung  In der F&E-Abteilung schlägt das kreative Herz des Unternehmens.  
+ Unsere Ingenieure entwickeln mit Leidenschaft neue Produkte und verbessern die 
+Qualität der existierenden Produkte, um unseren Kunden gerecht zu werden.  
+ Die fertigen Produkte werden intensiv getestet, damit sie den hohen 
+Qualitätsansprüchen entsprechen, die wir uns selbst setzen. 
+Einkauf  Hier werden alle notwendigen Einsatz- und Betriebsstoffe eingekauft, die für die 
+Fertigung unserer Produkte und einen reibungslosen Geschäftsablauf benötigt 
+werden. 
+Fertigung  Hier findet auf unseren Anlagen die Fertigung und Montage unserer hochwertigen 
+Produkte statt. 
+ Unsere hochqualifizierten Produktionsmitarbeiter garantieren eine exakte 
+Verarbeitung unserer Produkte und eine lange Lebensdauer. 
+Personal  In diesem Bereich sind alle Verwaltungsaufgaben, das Management, die 
+Buchhaltung und IT zusammengefasst.  
+ Unsere Personalabteilung kümmert sich sowohl um die Besetzung vakanter 
+Stellen und Entlassungen als auch um die Themen Weiterbildung und Motivation. 
+Finanz- & 
+Rechnungswesen   In der Abteilung Finanz- und Rechnungswesen laufen die Zahlen, Daten und 
+Fakten der COPYFIX AG zusammen.   
+ Die Anwendung betriebswirtschaftlicher Steuerungselemente sowie die 
+konsequente Erlös- und Kostenorientierung ist für den unternehmerischen Erfolg 
+der COPYFIX AG unabdingbar.   
+ 
+ 
+  
+8 © TOPSIM Die Entscheidungsbereiche 
+ Die Entscheidungsbereiche 
+Im Unternehmensplanspiel Mastering Business Operations übernehmen Sie die Position als neues 
+Vorstandsmitglied der COPYFIX AG. Als Vorstand müssen Sie Entscheidungen in allen Geschäftsbereichen 
+des Unternehmens treffen: 
+Die nachfolgenden Darstellungen der Entscheidungsbereiche sollen Ihnen helfen, einen Überblick über alle 
+Entscheidungsparameter zu erhalten und die jeweiligen Auswirkungen spezifischer Entscheidungen zu 
+verstehen. Die Anzahl und die Komplexität der Entscheidungen werden sich im Laufe des Planspiels erhöhen. 
+Folglich müssen die nachfolgend dargestellten Entscheidungsparameter zu unterschiedlichen Zeitpunkten im 
+Planspiel getroffen werden. 
+3.1 Vertrieb 
+3.1.1 Marketing-Mix 
+Ihre Hauptaufgabe im Vertrieb besteht darin, einen wirkungsvollen Marketing-Mix zu gestalten. Als Marketing-
+Mix werden Entscheidungen in den Bereichen Produkt-, Preis-, Kommunikations- und Distributionspolitik 
+bezeichnet. Diese so genannten „4 P“ (englisch: Product – Price – Place – Promotion) sind zentrale 
+Einflussfaktoren für die Bestimmung Ihres potentiellen Absatzes. Sie sollten die vier P so aufeinander 
+abstimmen, dass sie als ein Bündel von Maßnahmen (Marketing-Mix) die angestrebte Marktwirkung entfalten. 
+Die folgende Tabelle gibt Ihnen einen groben Überblick über die absatzpolitischen Instrumente und damit 
+verbundene Entscheidungen. In den folgenden Abschnitten werden diese ausführlicher beschrieben. 
+Absatzpolitisches Instrument Beeinflussende Entscheidung 
+Product Produktpolitik Endbestand F&E-Mitarbeiter  
+Price Preispolitik Absatzpreise 
+Place Distributionspolitik Endbestand Vertriebspersonal 
+Promotion  Kommunikationspolitik 
+Werbung
+BekanntheitKommunikationsaufwand durch 
+Investitionen in Werbung
+Investitionen in Corporate Identity und Werbung
+Vertrieb 
+ Einkauf 
+Finanz- & 
+Rechnungswesen  
+Personal 
+ Fertigung 
+Der Vorstand entscheidet über: 
+F & E 
+
+ 
+ 
+9 © TOPSIM Die Entscheidungsbereiche 
+Berücksichtigen Sie bei der Planung des Marketing-Mix, dass die Wirkung auch von den 
+Marketinganstrengungen der Mitbewerber am Markt und den gesamtwirtschaftlichen Rahmenbedingungen 
+unmittelbar beeinflusst wird. Außerdem wird durch die Preis- und Werbeaggressivität der Unternehmen im 
+Markt das grundlegende Marktvolumen beeinflusst, sodass es unter Umständen zu stärkerem oder 
+schwächerem Wachstum kommen kann, als in den Wirtschaftsnachrichten prognostiziert wird. 
+3.1.2 Produktbeschreibung und Produktpolitik 
+Die COPYFIX AG produziert und vertreibt den hochwertigen Farb-Kopierer Copy Classic. Er ist durch 
+nachfolgend aufgeführte technische Daten gekennzeichnet: 
+ 
+ Technische Daten des COPY CLASSIC 
+Typ Standgerät 
+Kopiergeschwindigkeit 36 Kopien A4 pro Minute 
+18 Kopien A3 pro Minute  
+Kopiervorwahl  1-99 
+Abmessungen  Breite Tiefe Höhe 
+804 mm 664 mm 415 mm 
+Gewicht 80 kg 
+Erste Kopie ca. 7 Sek. 
+Papiervorrat 2 Kassetten à 500 Blatt (A3, A4) 
+Kopierformate Kassette A4 – A3 
+Einzelblatteinzug A5 – A3 
+Kopiermaterial Papier: Kassette, Einzelblatteinzug 
+Tageslichtfolien 
+Selbstklebe-Etiketten 
+Zusatzteile Unterbrechungstaste über Einzelblatteinzug 
+Selbstdiagnosesystem 
+Automatische Null-Einstellung 
+ 
+ 
+10 © TOPSIM Die Entscheidungsbereiche 
+Kopiergeräte werden regelmäßig vom Fachmagazin „Der Profi-Kopierer“ untersucht und nach technologischen 
+Gesichtspunkten bewertet. Der Technologieindex setzt sich aus Produktmerkmalen wie 
+Kopiergeschwindigkeit, Kopierqualität und Bedienungsfreundlichkeit zusammen. Im Ökologieindex spiegelt 
+sich der Energieverbrauch und die Recyclefähigkeit des Geräts sowie der Emissionsgehalt wider. Der Copy 
+Classic liegt dabei im Vergleich mit anderen Geräten im Mittelfeld hinsichtlich der technologischen 
+Ausstattung. In Periode 0 erreichte der Copy Classic folgende Bewertung: 
+ 
+Technologieindex in Periode 0: 100,0 
+Ökologieindex in Periode 0: 100,0 
+ 
+Die Veröffentlichungen des Fachmagazins „Der Profi-Kopierer“ sind Orientierungshilfen für die Kunden. Daher 
+ist der vergebene Indexwert ein wichtiges Qualitätskriterium: Je höher die Indizes für Technologie und 
+Ökologie sind, desto größer ist die Akzeptanz des Produktes am Markt. Neben dem absoluten Wert des 
+Technologieindexes spielt dabei auch der relative Abstand zu den Indizes der Konkurrenz eine Rolle. Für die 
+Verbesserung der Produktmerkmale ist der Bereich F&E verantwortlich (siehe Kapitel 3.2 Forschung und 
+Entwicklung). Produkte mit einem Index von unter 100 Punkten werden als nicht marktreif angesehen und vom 
+Kunden daher gemieden. 
+3.1.3 Preispolitik 
+Im Wettbewerb mit den anderen Anbietern ist der Preis ein wichtiges Marketinginstrument mit sofortiger 
+Wirkung auf den Absatz. Er trägt damit wesentlich zur Differenzierung gegenüber dem Wettbewerb bei. Der 
+Preis beträgt in der Ausgangssituation auf dem inländischen Markt (Markt 1) 3.000 EUR.  
+Generell werden bei einer Preiserhöhung weniger Produkte abgesetzt. Umgekehrt steigt die Nachfrage bei 
+einer Preissenkung. Dieser Zusammenhang wird nachfolgend in der sog. „Preis-Absatz-Funktion“ dargestellt: 
+ 
+(Anmerkung : Dies ist eine beispielhafte Darstellung der Preis-Absatz-Funktion und stellt nicht genau ihren hinterlegten 
+Verlauf dar) 
+ 
+
+ 
+ 
+11 © TOPSIM Die Entscheidungsbereiche 
+Hierbei ist festzuhalten, dass es einen Preisbereich gibt, in welchem sich Preisänderungen nicht so  stark auf 
+die Nachfrage auswirken. Hier ist die Kurve etwas steiler. Dieser Abschnitt wird „unelastischer“ oder 
+„reaktionsarmer“ Bereich genannt. Auch der aktuelle Preis des Copy Classic liegt in diesem Bereich. Der 
+reaktionsarme Bereich liegt in etwa bei +/- 5% Abweichung vom gegenwärtigen Branchendurchschnittspreis 
+von 3.000 EUR. Sie können den Preis von einer auf die andere Periode beliebig erhöhen oder senken. 
+Bedenken Sie dabei jedoch, dass Sie bei einer drastischen Preisänderung mit erheblichen unternehmerischen 
+Konsequenzen rechnen müssen. Zum Beispiel sollten Sie bei einem hohen Preis auch eine hohe Qualität 
+anbieten bzw. bei einem niedrigen Preis lieferfähig sein und kostengünstig produzieren. 
+Aus der Anzahl der verkauften Kopierer und dem jeweiligen Preis errechnet sich der Umsatz der Periode. Als 
+Umsatz der Periode 0 wird der Geld-Betrag bezeichnet, den die COPYFIX AG beim Verkauf von 43.000 Copy 
+Classic zum Preis von 3.000 EUR einnimmt. Der Umsatz beträgt somit nach Ablauf des ersten Geschäftsjahres 
+(Ende Periode 0): 
+ 
+43.000 Stück * 3.000 EUR = 129.000.000 EUR 
+ 
+Die hinterlegte Fläche in der vorangegangenen Veranschaulichung stellt damit den Umsatz graphisch dar. Zu 
+diesem Umsatz kommt ggf. noch der Umsatz durch Großabnehmer oder durch Ausschreibungen hinzu.  
+Die Nachfragemenge reagiert äußerst sensibel auf Preisentscheidungen. Ist der Preis z. B. zu niedrig, kann 
+zwar der Umsatz durch einen erhöhten Absatz steigen, jedoch reicht dieser Umsatz unter Umständen nicht 
+mehr aus, um die Kosten zu decken. Prüfen Sie daher, ob Sie eine hohe Menge rentabel produzieren können, 
+bevor Sie den Preis herabsetzen! Ebenso können Sie mit überhöhten Preisen auch Umsatzeinbußen erleiden, 
+wenn Sie wegen einer Hochpreis-Strategie Kunden an die Konkurrenz verlieren.  
+Aus diesem Zusammenhang wird klar, dass bei der Preisentscheidung nicht nur der zu erwartende Absatz, 
+sondern auch der sich ergebende Umsatz zu planen ist. Der Absatz hängt neben dem Preis auch von anderen 
+Faktoren ab. Daher sind Sie auf Prognosen über das Kaufverhalten Ihrer Kunden angewiesen und Sie müssen 
+Annahmen über die Handlungen Ihrer Konkurrenz sowie die zukünftige Marktentwicklung treffen.  
+3.1.4 Kommunikationspolitik 
+Die Vertriebsaufwendungen Ihres Unternehmens können in zwei Teilbereiche gegliedert werden:  
+ Werbung und 
+ Corporate Identity. 
+Diese Werkzeuge kombiniert ergeben Ihre „Bekanntheit“. In jeder Periode zeigt der Index die allgemeine 
+Bekanntheit des Unternehmens aus Kundensicht. Die Bekanntheit des Unternehmens beeinflusst direkt Ihren 
+Marktanteil für alle Produkte.  
+Da beide Teilbereiche auf eine andere Weise arbeiten, sollten Sie sicherstellen, dass Sie unterscheiden, 
+welche Wirkung Sie erzielen möchten. Ebenso sollten Sie überprüfen, ob die Summe aller Ausgaben in 
+Relation zu den erwarteten Einnahmen steht. Bitte beachten Sie, dass Bekanntheit im Laufe der Zeit sinken 
+kann, wenn Sie die Ausgaben stark reduzieren. 
+ 
+ 
+12 © TOPSIM Die Entscheidungsbereiche 
+3.1.4.1 Werbung 
+Das am weitesten verbreitete Marketing-Tool ist klassische Werbung. Dazu gehören Web- Präsenz, 
+Werbeprospekte, Radiowerbung und ähnliche Werbeträger, die einen großen potenziellen Kundenkreis 
+ansprechen. Ein Anstieg der Werbeausgaben steigert in der Regel auch die Nachfrage nach Ihrem Produkt. 
+Werbung wirkt über mehrere Perioden hinweg, doch die stärkste Wirkung wird in dem Zeitraum erzielt, in dem 
+die Werbung geschaltet wird. Die Wirkung der Werbung auf die Nachfrage wird im folgenden Diagramm 
+beispielhaft dargestellt: 
+ 
+(Anmerkung:  Dies ist eine beispielhafte Darstellung der Werbung-Nachfrage-Funktion und stellt nicht genau ihren 
+hinterlegten Verlauf dar) 
+Die Abbildung zeigt: Sehr hohe Werbeausgaben bringen keinen deutlichen zusätzlichen Effekt, somit 
+unterliegen die Werbeausgaben einem abnehmenden Grenznutzen. Gleichzeitig wird deutlich, dass eine zu 
+geringe Werbeanstrengung kaum Wirkung zeigt. Diese wird vom Kunden kaum wahrgenommen. Das 
+Werbebudget beträgt in der Ausgangsperiode 6 Mio. EUR. Marketingexperten gehen davon aus, dass man 
+mit einem Budget von 7 Mio. EUR ca. 2.000 Kopierer mehr hätte verkaufen können.  
+Der Einfluss der Werbung auf die Gesamtnachfrage wird auch durch die Differenz zwischen Ihrem 
+Unternehmensbudget und dem Budget Ihrer Mitbewerber beeinflusst. Die Stärke des Effekts der Werbung 
+hängt außerdem vom Preis-Leistungs-Verhältnis ab. Je besser das Preis-Leistungs-Verhältnis, desto stärker 
+die erreichte Werbewirkung. Deshalb ist es ratsam im Auge zu behalten, dass ein Produkt mit einem hohen 
+Technologieindex und einem höheren Preis attraktiver sein könnte, als ein niedriger Preis kombiniert mit 
+niedriger Qualität. 
+3.1.4.2 Corporate Identity und Bekanntheit 
+Corporate Identity ist ein weiteres Kommunikationsinstrument, das zur Steigerung der Bekanntheit und des 
+Absatzes eingesetzt werden kann. Werbeausgaben wirken eher kurzfristig und nur produkt- und 
+marktbezogen, während Corporate Identity langfristig die produkt- und marktübergreifende Bekanntheit des 
+Unternehmens erhöht. Die Corporate Identity des Unternehmens ist folglich ein wichtiger Faktor für die 
+
+ 
+ 
+13 © TOPSIM Die Entscheidungsbereiche 
+langfristige Entwicklung des Unternehmens. Für Unternehmen wie die COPYFIX AG sind Corporate Identity-
+Ausgaben von ca. 3 Mio. EUR angemessen. Beachten Sie bei der Planung Ihres Marketingbudgets auch den 
+abnehmenden Grenznutzen Ihrer Corporate Identity-Investitionen. 
+Die Bekanntheit des Unternehmens am Markt wird jede Periode in Form eines Index bestimmt. Dabei sind die 
+Ausgaben für CI ein wesentlicher Einflussfaktor. Daneben spielen die Werbeausgaben eine bedeutende Rolle. 
+Während diese sich auf die Bekanntheit des Unternehmens auf einem bestimmten Markt auswirkt, haben 
+Ausgaben für CI einen positiven Einfluss auf die marktübergreifende Bekanntheit des Unternehmens 
+(Streueffekt). Beachten Sie, dass die Bekanntheit über die Zeit abnehmen kann, falls Ausgaben für CI und 
+Werbung deutlich reduziert werden. 
+3.1.5 Distributionspolitik 
+Die COPYFIX AG hat zu Beginn der Simulation 100 Vertriebsmitarbeiter, die mit dem Verkauf des Copy 
+Classic und der Beratung der Facheinzelhandelskunden beschäftigt sind. Die Verkaufschancen steigen mit 
+der Anzahl Ihrer Vertriebsmitarbeiter, da diese zu mehr Kundenpräsenz führen. Experten schätzen, dass 10 
+weitere Vertriebsmitarbeiter den Absatz um 2.000 Produkte hätten steigern können. Generell ergibt sich 
+folgender Zusammenhang zwischen der Anzahl an Vertriebsmitarbeitern und dem zu erzielenden Absatz: 
+ 
+(Anmerkung: Dies ist eine beispielhafte Darstellung der Vertriebsmitarbeiter-Absatz-Funktion und stellt nicht genau 
+ihren hinterlegten Verlauf dar) 
+Wie Kommunikationsmaßnahmen führen auch Vertriebsaktivitäten nicht nur direkt (d. h. in der aktuellen 
+Periode) zu Absatzerfolg. Bedenken Sie allerdings, dass sich durch zusätzliche Einstellungen die Kosten 
+erhöhen und dass die Zahl der Mitarbeiter im Vertrieb in Bezug zum Absatzvolumen stehen sollte. Ein deutlich 
+höherer Absatz bedeutet, dass mehr Vertriebsmitarbeiter benötigt werden, um die Beratungsqualität 
+beibehalten zu können.  
+Zudem ist zu beachten, dass die Lieferung eines Copy Classic im Inland Kosten in Höhe von 25 EUR an 
+Verpackungs- und Transportkosten verursacht. 
+ 
+
+ 
+ 
+14 © TOPSIM Die Entscheidungsbereiche 
+3.1.6 Weitere Absatzkanäle 
+Neben dem Absatz an den Facheinzelhandel ergeben sich im Inlandsmarkt zusätzliche Absatzmöglichkeiten 
+durch die Teilnahme an Ausschreibungen, wie sie beispielsweise von Behörden durchgeführt werden. Darüber 
+hinaus treten von Zeit zu Zeit Großabnehmer mit Kaufangeboten an Sie heran. 
+3.1.6.1 Verkauf an Großabnehmer 
+Bei dieser Form des Absatzes, an der sich alle Unternehmen beteiligen können, werden Preis und maximale 
+Liefermenge pro Unternehmen vom Großabnehmer festgelegt. Es kann folglich auch eine geringere Menge 
+angeboten werden. Die Lieferung erfolgt in der Entscheidungs-periode und hat Priorität gegenüber der 
+Lieferung an den Facheinzelhandel. Sämtliche Distributionskosten werden dabei vom Großabnehmer 
+übernommen. In der Regel sind die zu erzielenden Deckungsbeiträge jedoch geringer als beim Verkauf über 
+den Einzelhandel. Der Verkauf an einen Großabnehmer hat keine Auswirkungen auf die Nachfrage des 
+regulären Facheinzelhandels. 
+3.1.6.2 Verkauf über Ausschreibungen 
+Bei Ausschreibungen werden Produkte in hohen Stückzahlen von Großkunden (z. B. Behörden) nachgefragt. 
+Inhalt einer Ausschreibung ist die nachgefragte Menge. Alle Unternehmen können sich durch ein Preisgebot 
+am Ausschreibungsverfahren beteiligen. Das Unternehmen mit dem niedrigsten Preis erhält den Zuschlag. 
+Lieferung und Zahlung erfolgen erst in der Folgeperiode. Auch hier hat die Lieferung Priorität gegenüber der 
+Lieferung an den Facheinzelhandel. Bei gleichem Preisgebot erhält das Unternehmen den Zuschlag, dessen 
+Produkt die bessere Produktqualität aufweist. Auch hier werden die Distributionskosten übernommen. 
+3.1.7 Lieferunfähigkeit 
+Die Lieferung der Produkte erfolgt nach folgenden Prioritäten:  
+1. Lieferung aufgrund des Zuschlags bei einer Ausschreibung aus der Vorperiode,  
+2. Lieferung aufgrund einer Zusage an den Großabnehmer,  
+3. Lieferung an den Facheinzelhandel (Inlandsmarkt),  
+4. Lieferung an den Facheinzelhandel (Auslandsmarkt).  
+Wenn Ihr Marketing-Mix eine so große Nachfrage nach Ihren Produkten erzeugt, dass Ihr Unternehmen diese 
+nicht befriedigen kann, so liegt Lieferunfähigkeit vor. Bei Lieferunfähigkeit eines oder mehrerer Unternehmen 
+werden jeweils 80% der nicht befriedigten Nachfrage auf die verbleibenden Unternehmen entsprechend des 
+jeweiligen Marktanteils verteilt. 
+Im Rahmen dieser Umverteilung kann es dazu kommen, dass eines der bei der ersten Verteilung noch 
+lieferfähigen Unternehmen ebenfalls lieferunfähig wird. In diesem Fall wird die von diesem Unternehmen nicht 
+befriedigte Nachfrage nicht noch einmal auf die verbleibenden Unternehmen verteilt. Hierdurch kann es also 
+dazu kommen, dass weniger als 80% der nicht befriedigten Nachfrage umverteilt werden. 
+ 
+ 
+ 
+15 © TOPSIM Die Entscheidungsbereiche 
+3.1.8 Kundenzufriedenheit 
+Kundenzufriedenheit hat auch einen wichtigen (aber schwer zu messenden) Einfluss auf die Nachfrage. 
+Kundenzufriedenheit wird für jedes Produkt und für jeden Markt berechnet und wird mit einem Index 
+gemessen. Je höher der Indexwert ist, desto zufriedener sind Ihre Kunden, was in der Folge einen positiven 
+Einfluss auf Ihren Absatz hat.  
+Experten geben an, dass die folgenden Faktoren die Kundenzufriedenheit beeinflussen:  
+ 
+3.1.9 Marktforschungsbericht 
+Um Informationen über die Marketinganstrengungen der Konkurrenten zu erhalten, können Sie in jeder 
+Periode einen Marktforschungsbericht zum Preis von 100.000 EUR beziehen. Der Marktforschungsbericht 
+enthält Informationen über den Marketingmix der Konkurrenz: Preis und Qualität des angebotenen Produkts; 
+Werbeausgaben und Anzahl der Vertriebsmitarbeiter sowie Bekanntheit und Kundenzufriedenheit an den 
+einzelnen Märkten. 
+3.2 Forschung & Entwicklung (F&E) 
+Genereller technologischer Fortschritt, steigende Umweltsensibilität der Kunden sowie zunehmender 
+Konkurrenzdruck zwingen die Unternehmen, ihre Produkte fortlaufend weiterzuentwickeln. Zur 
+Weiterentwicklung des Copy Classic kann die COPYFIX AG folgende Maßnahmen ergreifen: 
+  Einflussfaktoren Wirkung auf Kundenzufriedenheit 
+Preisänderungen  Kunden bevorzugen konstante oder fallende 
+Preise. 
+Lieferfähigkeit in der Vorperiode  Lieferunfähigkeit und verspätete Lieferungen 
+verärgern den Kunden 
+Bestand Altgeräte Lager  Je mehr Altgeräte Sie im Lager haben (und 
+daher ausliefern), desto unzufriedener sind die 
+Kunden, da diese neuen Geräte haben wollen.  
+Umweltindex Gesamt  Ein hoher Umweltindex Ihrer Produktion wirkt 
+positiv auf die Kundenzufriedenheit. 
+ 
+ 
+16 © TOPSIM Die Entscheidungsbereiche 
+ 
+ 
+ Technologie 
+Entscheidung  Anzahl Mitarbeiter im Bereich F&E 
+Ergebnis  Erhöhung der Qualität (höherer Technologieindex) 
+Auswirkungen   Positiver Einfluss auf den Marktanteil 
+ Kosten durch Nacharbeit steigen wegen höherer Anforderungen (z.B. 
+Genauigkeitsanforderungen) 
+ Beachten Sie, dass es keinen linearen Zusammenhang zwischen der Anzahl der 
+Ingenieure und deren Entwicklungsleistung pro Periode gibt (abnehmender 
+Grenznutzen). D.h. 200 Mitarbeiter erreichen nicht die doppelte Leistung wie 100 
+Mitarbeiter. 
+Ökologie 
+Entscheidung  Beraterleistungen im Bereich Ökologie 
+Ergebnis  Erhöhung der Qualität (höherer Ökologieindex) 
+Auswirkungen   Positiver Einfluss auf den Marktanteil 
+ Kosten durch Nacharbeit steigen wegen höherer Anforderungen (z.B. 
+Genauigkeitsanforderungen, höhere Komplexität) 
+Wertanalyse 
+Entscheidung  Beraterleistungen im Bereich Wertanalyse 
+Ergebnis  Erhöhung der Wirtschaftlichkeit (höherer Wertanalyseindex) 
+Auswirkungen   Geringerer Materialverbrauch 
+ Erhöhte Kosten durch Nacharbeit 
+Entscheidungsbereich  Entscheidung  Indexstand 
+Technologie  35 Mitarbeiter in F&E  100,0 (gemäß Analyse des Magazins 
+„Der Profi-Kopierer“) 
+Ökologie  2,50 MEUR 100,0 
+Wertanalyse  1,00 MEUR 1,00 
+ 
+ 
+17 © TOPSIM Die Entscheidungsbereiche 
+3.3 Einkauf 
+3.3.1 Bedarf und Konditionen 
+Zur Produktion eines Copy Classic muss jeweils eine Mengeneinheit „Einsatzstoffe“ eingesetzt werden. 
+Investitionen in Wertanalyse verringern diesen Bedarf bei einem Indexstand von über 100. Der genaue Bedarf 
+wird wie folgt berechnet: 
+ 
+ 
+Bedarf an Einheiten = zu produzierende Einheiten Copy Classic * 100 / Wertanalyseindex 
+ 
+ 
+ 
+Die in einer Periode bestellten Einsatzstoffe / Teile sind bereits am Anfang derselben Periode für die Fertigung 
+verfügbar. Genügen in einer Periode die vorhandenen Einsatzstoffe / Teile nicht, so wird der Fehlbestand 
+ausgeglichen. Der Ausgleich erfolgt automatisch durch Sondermaßnahmen wie Expresssendungen, Luftfracht 
+usw., die mit einem Preisaufschlag von 20 % bezahlt werden müssen.   
+3.3.2 Lager Fertigprodukte und Einsatzstoffe 
+Die Kosten für die Lagerung von Einsatzstoffen und Fertigprodukten betragen 50 bzw. 100 EUR pro Einheit. 
+Derzeit haben Sie 15.000 Einheiten Einsatzstoffe und 5.000 Copy Classic auf Lager.  
+Hier ein Auszug aus dem Lagerbericht am Ende der Periode 0:   
+  Stück EUR / Stück  
+bis < 30.000 650 
+bis < 50.000 550 
+bis < 70.000 450 
+ab 70.000  400 
+ 
+ 
+18 © TOPSIM Die Entscheidungsbereiche 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aus der Tabelle lässt sich ablesen, dass der Lagerendbestand in Periode 0 5.000 Stück beträgt und zu 
+Herstellkosten von 2.046,84 EUR/Stück bewertet wurde. Der Wert ergibt sich aus einer Mischkalkulation von 
+Lageranfangsbestand und Lagerzugang:   
+ 
+ 
+(16,16 Mio. EUR + 82,09 Mio. EUR) / (8.000 Stück + 40.000 Stück) = 2.046,86 EUR/Stück 
+ 
+  Einsatzstoffe Copy Classic 
+ Menge Lagerwerte  
+ Stück EUR/Stück Mio. EUR 
+Lageranfangsbestand 25.000 500,00 12,50 
++ Zugang von Fertigung  30.000 550,00 16,50 
++ Nachlieferung  0 780,00 0 
+- Abgang an Vertrieb 40.000 527,27 21,09 
+= Lagerendbestand 15.000 527,27 7,91 
+Fertigprodukte Copy Classic 
+ Menge Lagerwerte  
+ Stück EUR/Stück Mio. EUR 
+Lageranfangsbestand 8.000 2.020,00 16,16 
++ Zugang von Fertigung  40.000 2.052,23 82,09 
++ Bezug Fremdfertigung  0 2.000,00 0 
+- Abgang an Vertrieb 43.000 2.046,86 88,02 
+= Lagerendbestand 5.000 2.046,86 10,23 
+ 
+ 
+19 © TOPSIM Die Entscheidungsbereiche 
+3.4 Fertigung 
+3.4.1 Bestand an Fertigungsanlagen 
+Die COPYFIX AG verfügt in Periode 0 über vier Fertigungsanlagen vom Typ A. Die folgenden Daten gelten 
+für diese Anlagen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die Anlagen befinden sich schon seit einiger Zeit in Ihrem Betrieb und werden in wenigen Perioden vollständig 
+abgeschrieben sein. Deshalb empfiehlt es sich, über Investitionen in neue, modernere Fertigungsanlagen 
+nachzudenken.  
+Die Fertigungsanlagen werden linear abgeschrieben. Dabei gilt: 
+ 
+Jährliche Abschreibungshöhe = Anschaffungspreis / Nutzungsdauer 
+ 
+Abgeschriebene Fertigungsanlagen können weiterhin voll für die Produktion eingesetzt werden.   Beschaffungs-
+periode Beschaff.-  
+wert Restlauf-
+zeit Abschrei- 
+bung Restbuch-
+wert Sonstige 
+Fixkosten 
+  Mio. EUR Perioden Mio. EUR / 
+Periode Mio. EUR Mio. EUR 
+Typ A Nr. 1 -8 12,50 1 1,25 1,25 1,50 
+Typ A Nr. 2 -7 15,00 2 1,50 3,00 1,00 
+Typ A Nr. 3 -6 20,00 3 2,00 6,00 0,50 
+Typ A Nr. 4 -5 20,00 4 2,00 8,00 0,25 
+SUMME  67,50  6,75 18,25 3,25 
+ Normale 
+Kapazität Instandhaltung Rationalisie
+rung Verfügbare 
+Kapazität Umwelt-
+index 
+ Einheiten Mio. EUR Faktor Faktor Einheiten Index 
+Typ A Nr. 1 8.000 1,50 0,97 1,00 7.760 83 
+Typ A Nr. 2 9.000 1,50 0,97 1,00 8.730 90 
+Typ A Nr. 3 11.500 1,50 0,97 1,00 11.155 95 
+Typ A Nr. 4 13.500 1,50 0,97 1,00 13.095 98 
+SUMME 42.000 6,00   40.740 Ø 91,5 
+ 
+ 
+20 © TOPSIM Die Entscheidungsbereiche 
+Eine angemessen hohe Auslastung Ihrer Anlagen ist mit Blick auf die Profitabilität sehr wichtig, da die Kosten 
+für die Anlagen dann auf mehr Produkte umgelegt werden können. Allerdings führt auch eine Überauslastung 
+der Anlagen zu hohen Kosten, da in diesem Fall eine zusätzliche Schicht gefahren werden muss. Dies 
+verursacht sprungfixe Kosten in Höhe von 2,50 Mio. EUR.  
+Sonstige fixe Kosten der Fertigungsanlagen sind z. B. Versicherungskosten, die durch laufende Verträge 
+bestimmt sind. 
+3.4.2 Anpassung von Fertigungskapazitäten 
+Zur Produktion eines Copy Classic benötigen Sie eine Kapazitätseinheit einer Fertigungsanlage. Die 
+verfügbare Produktionskapazität kann mit den folgenden Mitteln beeinflusst werden: 
+ Investitionen in neue Anlagen,  
+ Desinvestition von bestehenden Anlagen,  
+ Instandhaltung,  
+ Rationalisierung  
+ Überstunden in der Nutzung der Fertigungsanlagen.  
+Der Kapazitätsbedarf kann bei anderen Produkten unterschiedlich sein. 
+3.4.2.1 Investitionen in neue Fertigungsanlagen 
+Sie können bei einer Neuanschaffung Anlagen vom Typ A, B oder C wählen, insgesamt können jedoch 
+maximal neun Fertigungsanlagen pro Typ geordert und aufgestellt werden. Die in der Ausgangssituation 
+verfügbaren vier Anlagen vom Typ A werden dabei mitgezählt. Neu gekaufte Fertigungsanlagen sind sofort 
+mit ihrer vollen Fertigungskapazität verfügbar. 
+ 
+   Kaufpreis Abschreibungs- 
+dauer Normale Kapazität  Sonstige 
+Fixkosten Umweltindex 
+ MEUR Perioden Einheiten / Periode  MEUR / Perioden  
+Typ A 20,00 10 14.000 0,3 100,0 
+Typ B 25,00 10 18.000 2,0 105,0 
+Typ C 30,00 15 22.000 2,5 110,0 
+21 © TOPSIM Die Entscheidungsbereiche 
+3.4.2.2 Desinvestitionen von bestehenden Anlagen 
+Fertigungsanlagen können verkauft (verschrottet) werden. Eine verschrottete Fertigungsanlage steht bereits 
+zu Beginn der Periode nicht mehr zur Verfügung. Anlagen, die bereits vollständig abgeschrieben sind, werden 
+nicht automatisch verkauft. Um eine bestimmte Anlage zu verkaufen, setzen Sie einen Haken im 
+Entscheidungsbereich Desinvestition. Die entsprechenden Fertigungsanlagen werden dann zu einem 
+anlagenspezifischen Prozentsatz des Restbuchwertes verkauft. Bei Anlagen des Typs A beträgt der Erlös 20% 
+(Typ B 25%, Typ C 30%) des Restbuchwerts.  
+Sollten Sie Maschinen verschrotten, so erhalten Sie einen Resterlös, welcher als Einzahlung im Finanzbericht 
+Ihrem Unternehmen zufließt. Jedoch führt der Wertverlust in Höhe der Differenz von Restbuchwert minus 
+Resterlös zu einer „außerordentlichen Abschreibung“ im Bereich Fertigungsanlagen in der 
+Kostenartenrechnung. 
+Sie können nicht alle Maschinen verkaufen, d. h. mindestens eine Anlage muss in Ihrem Bestand verbleiben. 
+Die beiden Positionen werden in der Kostenrechnung zusammengefasst und direkt unter „Abschreibungen“ 
+eingerechnet  (ebenso in der GuV (beim Gesamtkostenverfahren z.B. unter "Sonstigem Aufwand" )). 
+3.4.2.3 Instandhaltung 
+Fertigungsanlagen unterliegen infolge ihrer Nutzung im Betrieb einem ständigen Verschleiß. Durch 
+Instandhaltungsmaßnahmen können die aus dem Verschleiß resultierenden Kapazitätsminderung vermieden 
+werden. Dies gilt auch für neue Fertigungsanlagen. Es gilt der folgende Wirkungszusammenhang zwischen 
+Instandhaltungsbudget und Verfügbarkeitsgrad: Auswirkungen einer Desinvestition 
+Kostenartenrechnung
+Abschreibung  (Restbuchwert)   = Sonstiger Aufwand  
+Resterlös (Schrotterlös)  
+Finanzbericht  
+Resterlös (Schrotterlös) = Einzahlung aus Desinvestitionen  = Sonstiger Ertrag
+ 
+ 
+22 © TOPSIM Die Entscheidungsbereiche 
+ 
+Normale Kapazität * Verfügbarkeitsgrad = Verfügbare Kapazität I 
+ 
+3.4.2.4 Rationalisierung 
+Die verfügbare Kapazität der Fertigungsanlagen kann durch Rationalisierungsmaßnahmen erhöht werden. Sie 
+können über ein Budget für die Rationalisierung der einzelnen Anlagentypen entscheiden. Eine einmal 
+durchgeführte Rationalisierung gilt für alle Anlagen dieses Typs (auch für Anlagen dieses Typs, die in der 
+Zukunft angeschafft werden).  
+Die Ausgaben für Rationalisierung in einer Periode werden in der gleichen Periode in voller Höhe als Kosten 
+geltend gemacht. 
+ 
+Normale Kapazität I * Rationalisierungsfaktor = Verfügbare Kapazität II 
+ 
+3.4.2.5 Überstunden in der Nutzung der Fertigungsanlagen 
+Die verfügbare Kapazität kann durch Überstunden um maximal 10% erhöht werden. Überstunden werden 
+automatisch angesetzt, wenn die benötigte Fertigungskapazität die verfügbare Kapazität übersteigt. Sind 
+Überstunden erforderlich, muss eine weitere Schicht gefahren werden. Es fallen für Aufsicht und Betrieb 
+Mehrkosten in Höhe von 2,50 Mio. EUR in der Periode an (sprungfixe Kosten). Es gilt: 
+ 
+Verfügbare Kapazität II * Überstundenfaktor = Verfügbare Kapazität III 
+ 
+3.4.3 Umweltindex der Fertigungsanlagen 
+Der Umweltbelastungsindikator ist eine gesetzliche Norm zur Bestimmung der Umweltverträglichkeit der 
+Produktion Ihres Unternehmens. Der Indikator entspricht dem Durchschnitt der Umweltindizes der 
+eingesetzten Fertigungsanlagen. Der Umweltindex der Fertigungsanlagen kann nur durch die Beschaffung Instandhaltungsaufwand pro Periode und pro 
+Fertigungsanlage in Mio. EUR  Verfügbarkeitsgrad der normalen Kapazität  
+0,1 50 % 
+0,5 70 % 
+  0,7                        80 % 
+  1,0                        95 % 
+  1,5                        97 % 
+  3,0                        99 % 
+  4,0 100 % 
+ 
+ 
+23 © TOPSIM Die Entscheidungsbereiche 
+von neuen oder die Verschrottung von alten Fertigungsanlagen verbessert werden. Erfüllt ein Unternehmen 
+die gesetzliche Norm von 100,00 nicht, so muss es in der aktuellen Periode pro fehlenden Indexpunkt eine 
+Abgabe an die Umweltbehörde leisten, die als Verschmutzungszertifikat oder Emissionsabgabe interpretiert 
+werden kann.  
+Mit Investitionen in Umwelttechnik wie Kläranlagen oder Filter (End-of-Pipe-Investitionen) kann die 
+Umweltbelastung durch das Unternehmen verringert werden. Investitionen in Umweltanlagen werden über 10 
+Jahre linear abgeschrieben.  
+In Periode 0 müssen aufgrund des Indikators 1,35 MEUR an Strafzahlungen geleistet werden: 
+Der Umweltbelastungsindikator Ihres Unternehmens beeinflusst folgende Faktoren direkt: 
+ Kundenzufriedenheit 
+ Fehlzeiten des Fertigungspersonals  
+ Abgabe an die Umweltbehörde 
+Die Abgaben an die Umweltbehörde wurden wie folgt festgelegt: 
+ 
+3.4.4 Nacharbeit 
+In der Fertigung fallen Kosten für Nacharbeit (Ausschuss) an. Sie sind abhängig von: Umweltindex der Fertigungsanlagen Periode 0  Index 91,50 
+Verbesserung der Umweltindizes durch die Umwelttechnik Punkte 1,80 
+Umweltbelastungsindikator des Unternehmens in Periode 0  Index 93,3 
+Abgabe an Umweltbehörde in Periode 0  MEUR 1,35 
+Umweltindex der Fertigungsanlagen 
+(Durchschnitt)  Abgabe an Umweltbehörde (MEUR)  
+85,00 5,00 
+90,00 2,50 
+  92,50                        1,50 
+95,00 1,00 
+98,00 0,50 
+100 0 
+ 
+ 
+24 © TOPSIM Die Entscheidungsbereiche 
+ 
+3.4.5 Betriebsstoffe 
+Je produziertem Gerät Copy Classic fallen derzeit Kosten für Betriebsstoffe (z. B. Energie) in Höhe von 50,00 
+EUR an. Die Betriebsstoffe werden automatisch beschafft und stehen immer im benötigten Umfang zur 
+Verfügung. 
+  Einflussfaktoren  Wirkung auf Nacharbeit 
+Technologieindex  Eine höhere Technologie führt zu mehr Nacharbeit aufgrund der er-
+höhten Komplexität der Geräte.  
+Ökologieindex  Ein höherer Ökologieindex führt aufgrund der höheren technischen 
+Komplexität der Geräte zu mehr Nacharbeit.   
+Wertanalyseindex Eine gesteigerte Wertanalyse erhöht den Aufwand für Nacharbeit.  
+Personalnebenkosten Höhere Personalnebenkosten führen zu einer Verminderung der 
+Nacharbeit durch eine bessere Bezahlung der Mitarbeiter.  
+Mitarbeitermotivation Eine hohe Mitarbeitermotivation hilft, die Nacharbeit zu senken.  
+Auslastung 
+Fertigungsanlagen Eine Auslastung von über 100% (Überstunden) führt zu einer über-
+mäßigen Beanspruchung der Fertigungsanlagen und damit auch zu mehr 
+Ausschuss.  
+Auslastung 
+Fertigungsmitarbeiter Bei einer Auslastung von über 100% (Überstunden) kommt es vermehrt 
+zu Produktionsfehlern und damit zu einer erhöhten Nacharbeit.  
+ 
+ 
+25 © TOPSIM Die Entscheidungsbereiche 
+3.5 Personal 
+3.5.1 Personalbestand in der Ausgangssituation 
+Die Personalsituation der COPYFIX AG stellt sich in Periode 0 wie folgt dar: 
+ 
+Zur Kostenstelle Verwaltung gehören die Personalkosten der Bereiche Personalwesen, Finanz- und 
+Rechnungswesen und allgemeine Verwaltungsdienste. 
+3.5.2 Anpassung des Personalbestandes 
+Grundsätzlich erfolgt die Anpassung des Personalbestandes über Einstellungen und Entlassungen. Der 
+Personalbestand in den Unternehmensbereichen wird auch durch Kündigungen seitens der Mitarbeiter 
+(Fluktuation) beeinflusst. Die Fluktuationsrate hängt wesentlich von den Personalnebenkosten ab.  
+Sie können für den Unternehmensbereich Fertigung Mitarbeiter einstellen und entlassen. In den Bereichen 
+F&E sowie im Vertrieb bestimmen Sie als Vorstand den Personalendbestand. Einstellungen und Entlassungen 
+erfolgen entsprechend dem gewünschten Personalendbestand automatisch, wobei auch die Fluktuation 
+berücksichtigt wird.  
+Die Zahl der Mitarbeiter in den Kostenstellen Einkauf und Verwaltung ist abhängig vom Umsatz des 
+Unternehmens. Außerdem werden bei einer hohen Produktkomplexität (hoher Technologieindex) zusätzlich 
+Mitarbeiter im Einkauf notwendig, da die Beschaffungsprozesse deutlich aufwändiger werden.  
+Bei Umsatzschwankungen wird der Personalbestand automatisch durch Einstellungen und Entlassungen 
+angepasst. Auch hier ist das Verhältnis nicht linear, bei doppeltem Umsatz werden Sie also nicht doppelt so 
+viele Mitarbeiter benötigen. 
+  Kostenstelle  Personalendbestand  Gehälter (in EUR) in Periode 0 ohne 
+Personalnebenkosten 
+Einkauf  18 30.000 
+Verwaltung  208 28.000 
+Fertigung  852 30.000 
+Forschung & 
+Entwicklung 35 44.000 
+Vertrieb 100 40.000 
+Gesamt 1.213  
+ 
+ 
+26 © TOPSIM Die Entscheidungsbereiche 
+Kostenstelle Einkauf – erforderliches Personal in Abhängigkeit vom Umsatz (Copy Classic): 
+ 
+Bei einer hohen Produktkomplexität (hoher Technologieindex) werden zusätzlich Mitarbeiter im Einkauf 
+notwendig, da die Beschaffungsprozesse deutlich aufwändiger werden.  
+Kostenstelle Verwaltung – erforderliches Personal in Abhängigkeit vom Umsatz (Copy Classic): 
+ 
+Jede Neueinstellung in einer Kostenstelle verursacht einmalige Kosten in Höhe von 12.500 EUR. Die 
+Entlassungskosten betragen einmalig 10.000 EUR. Umbesetzungen innerhalb der Bereiche F&E (z.B. von 
+Copy Classic zu Copy Budget) und Vertrieb (z. B. von Markt 1 zu Markt 2) stellen keine Einstellungen oder 
+Entlassungen dar. Die mögliche Anzahl von Neueinstellungen kann durch eventuelle Engpässe am 
+Arbeitsmarkt begrenzt sein. 
+3.5.3 Personalnebenkosten 
+Die Personalnebenkosten betragen zu Beginn 40 % der jeweiligen Gehaltssummen der Kostenstellen. Der 
+Mindestsatz von 37 % entspricht gesetzlichen Vorschriften wie Arbeitgeberanteil zur Sozialversicherung, 
+bezahlte Feiertage, etc.  
+Die Personalnebenkosten haben direkten Einfluss auf die Fluktuationsrate sowie auf die Fehlzeiten der 
+Mitarbeiter in den einzelnen Abteilungen. 
+ 
+
+ 
+ 
+27 © TOPSIM Die Entscheidungsbereiche 
+3.5.4 Betriebliche Altersvorsorge 
+Die COPYFIX AG hat allen Mitarbeitern eine betriebliche Altersversorgung zugesagt. Daher werden in jeder 
+Periode Pensionsrückstellungen in Höhe von 5% der Lohn- bzw. Gehaltssumme der bilanziellen 
+Pensionsrückstellungen neu zugeführt. 
+3.5.5 Sozialplan 
+Wenn in einer einzelnen Abteilung mehr als 10% des Personalanfangsbestandes entlassen werden 
+(Fluktuation zählt hier nicht dazu), so fallen weitere Personalkosten für Sozialpläne für jede weitere Entlassung 
+in dieser Abteilung an. Diese Kosten entstehen zusätzlich zu den normalen Entlassungskosten. Die Höhe der 
+einmaligen Sozialplankosten richtet sich nach der Anzahl der entlassenen Mitarbeiter. Je mehr Mitarbeiter 
+entlassen werden, desto höher werden die durchschnittlichen Entschädigungen für die Mitarbeiter. Sofern in 
+den Wirtschaftsnachrichten keine anderen Informationen kommuniziert werden, gelten die folgenden 
+Sozialkosten: 
+ 
+Die Kosten für Sozialpläne werden im Personalbericht unter sonstige Kosten für Sozialpläne ausgewiesen. 
+3.5.6 Motivation der Fertigungsmitarbeiter 
+Die Motivation der Mitarbeiter in der Fertigung bedingt die Leistungsbereitschaft und hilft, Nacharbeit zu 
+vermeiden. Als psychologische Größe ist die Mitarbeitermotivation manchmal schwer zu fassen und kann sich 
+unter Umständen auch schnell ändern. Die Motivation wirkt zeitverzögert auf die Produktivität und Fehlzeiten 
+der Fertigungsmitarbeiter.  
+  Entlassungen (in % vom 
+Personalanfangsbestand)  Sozialplankosten pro Entlassung  
+10% - 19,99% 15.000 EUR 
+20% - 39,99 % 20.000 EUR 
+  40% - 100%                         25.000 EUR 
+ 
+ 
+28 © TOPSIM Die Entscheidungsbereiche 
+Folgende Wirkungen werden derzeit für plausibel gehalten: 
+ 
+Bei der Personalauslastung werden Werte von ca. 98 % für motivationsförderlich gehalten. Bei den 
+Personalbewegungen gilt, dass Mitarbeiter ein überschaubares Wachstumstempo für besonders positiv 
+halten. Schnelles Wachstum oder Personalabbau führt zu einem Rückgang der Motivation.  
+Die Motivation wird in Form eines Index gemessen. Ein höherer Index bedeutet eine höhere Motivation und 
+umgekehrt.   
+3.5.7 Produktivität 
+3.5.7.1 Grundproduktivität und Überstunden Fertigungsmitarbeiter 
+Die normale Produktivität eines Fertigungsmitarbeiters liegt bei 50 Kopiergeräten Typ Copy Classic pro 
+Periode. Überstunden werden automatisch angesetzt, wenn die geplante Fertigungsmenge nicht mit der 
+vorhandenen Mitarbeiterzahl – oder mit der verfügbaren Fertigungskapazität der Fertigungsanlagen – gefertigt 
+werden kann. Die Zahl der möglichen Überstunden ist begrenzt. Sie beträgt zurzeit 10 %.  
+Bei Überstunden sei es bei den Mitarbeitern, bei den Fertigungsanlagen oder bei Mitarbeiter und 
+Fertigungsanlagen, fallen pro Periode Mehrkosten in Höhe von 2,50 Mio. EUR für Aufsicht und Betrieb an. 
+Zusätzlich ist für die Fertigungsmitarbeiter ein Überstundenzuschlag von 25% auf Löhne und Gehälter, die 
+während der Überstundenzeit anfallen, fällig. Die Überstundenzuschläge werden in der oben dargestellten 
+Statistik der Personalabteilung nicht ausgewiesen. 
+3.5.7.2 Prozessoptimierung 
+Mit Hilfe von Projekten zur Prozessoptimierung können die Arbeitsabläufe in der Fertigung rationeller gestaltet 
+werden und damit die Produktivität der Mitarbeiter erhöhen. Allerdings verstärken solche Projekte auch die 
+Fehlzeiten (infolge der höheren Belastung der Mitarbeiter).  
+In Periode 0 beträgt der Prozessoptimierungsindex 1,00. Berater meinen, dass mit einer Investition von 2,5 Einflussfaktoren  Maßnahmen beim 
+Einflussfaktor Auswirkungen auf die 
+Motivation 
+Auslastung der Mitarbeiter  ? 
+Kundenzufriedenheit    
+Personalbewegung (Einstellungen/ 
+Entlassungen)  ? 
+Personalnebenkosten   
+Prozessoptimierung   
+Trainingsmaßnahmen   
+Qualität der Produkte   
+ 
+ 
+29 © TOPSIM Die Entscheidungsbereiche 
+Mio. EUR ein Index von etwa 1,04 zu erreichen ist.   
+3.5.7.3 Training für Fertigungsmitarbeiter 
+Ausgaben für Training des Fertigungspersonals erhöhen die Qualifizierung der Mitarbeiter und führen dadurch 
+zu einer Erhöhung der Produktivität. Die Ausgaben für Training erhöhen den Personalqualifikationsindex 
+(Periode 0 = 1,00). Darüber hinaus senkt Training auch die Fehlzeiten. Die Kosten für einen Trainingstag pro 
+Fertigungsmitarbeiter liegen durchschnittlich bei ca. 800 EUR. In der Branche sind 2-6 Trainingstage pro Jahr 
+pro Fertigungsmitarbeiter üblich.  
+Je höher die Qualifikation der Mitarbeiter, desto schneller nimmt diese ab, falls Trainingsmaßnahmen 
+komplett wegfallen oder stark reduziert werden. 
+3.5.7.4 Produktivitätsindex I 
+Die Produktivität der Mitarbeiter wird einerseits über Training und Prozessoptimierung direkt beeinflusst, auf 
+der anderen Seite führen Neueinstellungen und die daraus resultierende Einarbeitungszeit in der Regel zu 
+einem Rückgang der durchschnittlichen Produktivität. Auch die Mitarbeitermotivation beeinflusst die 
+Produktivität.  
+Aus dem Produkt der Indizes für Prozessoptimierung, Einarbeitungswirkungen, Personalqualifikation und 
+Wirkungen der Mitarbeitermotivation ergibt sich der Produktivitätsindex I. Er wird im Fertigungsbericht unter 
+„2. Fertigungspersonal“ ausgewiesen (Auszug): 
+Prozessoptimierungsindex  1,0 
+* Einarbeitungsindex   1,0 
+* Personalqualifizierungsindex  1,0 
+* Motivationsindex     1,0      
+= Produktivitätsindex I 
+3.5.7.5 Produktivitätsindex II 
+Mit zunehmender Zahl an produzierten Einheiten nimmt die Erfahrung der Fertigungsmitarbeiter bei der 
+Produktion zu und damit steigt ihre Produktivität. Dabei zählt die kumulierte Menge der produzierten Einheiten 
+über alle Perioden hinweg. Dieser Erfolgsgrad des Lernens über den Zeitverlauf wird als „Lernkurve“ oder 
+„Erfahrungskurve“ bezeichnet. Hieraus ergibt sich dann der Produktivitätsindex II. Er beträgt in der 
+Ausgangssituation 1,00. 
+3.5.7.6 Tatsächliche Produktivität 
+Die tatsächliche Produktivität eines Fertigungsmitarbeiters ist somit: 
+ 
+Grundproduktivität * Produktivitätsindex I * Produktivitätsindex II 
+  
+ 
+ 
+30 © TOPSIM Die Entscheidungsbereiche 
+3.5.8 Fehlzeiten 
+Fehlzeiten vermindern das einsetzbare Personal in der Fertigung. Folgende Faktoren beeinflussen die 
+Fehlzeiten: 
+3.6 Finanz- und Rechnungswesen 
+3.6.1 Zahlungsverhalten der Kunden 
+Das Zahlungsverhalten der Kunden ist wie folgt: 
+ 80% der Umsatzerlöse dieser Periode führen zu sofortigen Einzahlungen,  
+ 20% der Umsatzerlöse führen zu Einzahlungen in der Folgeperiode.  
+Dies gilt nicht für Großabnehmer und Ausschreibungen. Hier erfolgen die Zahlungen zu 100% in der Periode 
+der Lieferung. Die am Ende einer Periode noch ausstehenden Einzahlungen erscheinen in der Bilanz unter 
+der Aktivposition „Forderungen aus Lieferungen und Leistungen“. 
+3.6.2 Kredite 
+Um die Liquidität des Unternehmens sicherstellen zu können, müssen Sie ggf. über die Aufnahme von Krediten 
+entscheiden.  
+Über die zu Beginn geltenden Zinskonditionen und Zinssatzänderungen werden Sie in den Wirt-
+schaftsnachrichten informiert. Die tatsächlichen Zinsen für die Inanspruchnahme eines Kredits werden durch 
+das unternehmensspezifische Rating beeinflusst. 
+3.6.2.1 Kurzfristiger Kredit 
+In jeder Periode kann nach Bedarf ein kurzfristiger Kredit (Laufzeit: 1 Periode) aufgenommen werden. Er wird 
+in der laufenden Periode verzinst und in der Folgeperiode automatisch zurückgezahlt. Der Zinssatz Einflussfaktoren  Maßnahmen beim 
+Einflussfaktor Auswirkungen auf die 
+Fehlzeiten 
+Mitarbeitermotivation   
+Personalaufbau (Einstellungen)  je nach Höhe 
+Personalabbau (Entlassungen)  je nach Höhe 
+Personalnebenkosten   
+Prozessoptimierung   
+Trainingsmaßnahmen   
+Umweltbelastungsindikator   
+ 
+ 
+31 © TOPSIM Die Entscheidungsbereiche 
+kurzfristiger Kredite kann sich durch das Rating ändern. Das aktuelle Rating bestimmt jeweils die 
+Zinsänderung der Folgeperiode. In Periode 0 beträgt der Zinssatz für einen kurzfristigen Kredit bis zur Höhe 
+des Eigenkapitals 8,0%. 
+3.6.2.2 Langfristiger Kredit 
+Grundsätzlich haben Sie die Möglichkeit, kurzfristige Kredite durch langfristige Kredite mit einer Laufzeit von 
+zehn Perioden abzulösen. Dem damit verbundenen Zinsvorteil steht der Ausschluss der vorzeitigen 
+Rückzahlung als Nachteil gegenüber. Sie haben somit keine Möglichkeit, langfristige Kredite während der 
+Simulation zu tilgen. Der Zinssatz wird zum Aufnahmezeitpunkt fixiert. Auch dieser Zinssatz wird durch das 
+unternehmensspezifische Rating beeinflusst (bei Aufnahme des Kredits, nicht während der Laufzeit). Der 
+Zinssatz in Periode 0 beträgt 7,0 %. 
+3.6.2.3 Überziehungskredit 
+Reicht die vorhandene Liquidität in einer Periode nicht zur Deckung aller Zahlungs-verpflichtungen aus, wird 
+dem Unternehmen zur Vermeidung von Zahlungsunfähigkeit automatisch ein Überziehungskredit 
+(Kontokorrentkredit) eingeräumt. Der Kassenbestand muss mindestens 100.000 EUR betragen. Es wird 
+gerade so viel in Anspruch genommen, dass dieser Kassenbestand erreicht wird. Der Zinssatz für den 
+Überziehungskredit liegt in Periode 0 bei 13,0 %. Die Zinsen werden in der laufenden Periode fällig. Der 
+Überziehungskredit selbst wird in der Folgeperiode automatisch zurückgezahlt. 
+3.6.3 Finanzinvestitionen 
+Die Unternehmensleitung kann in jeder Periode – sofern sie über überschüssige liquide Mittel verfügt – 
+Wertpapiere kaufen. Der Zinsertrag wird in der laufenden Periode gutgeschrieben. Die Wertpapiere selbst 
+werden in der Folgeperiode automatisch wieder verkauft und zurückgezahlt. Die Höhe der Zinsen wird in den 
+Wirtschaftsnachrichten kommuniziert. 
+3.6.4 Rating 
+Die COPYFIX AG wird einem Rating durch die Hausbank unterworfen. Ein gutes Rating verbessert die 
+Kreditkonditionen, ein Absinken des Ratings dagegen bringt eine Erhöhung der Fremdkapitalzinsen in der 
+nächsten Periode mit sich.  
+Die wichtigsten Einflussgrößen für das Rating sind: 
+  
+ 
+ 
+32 © TOPSIM Die Entscheidungsbereiche 
+ 
+Das Rating wird in Form einer Bonitätsklasse ausgedrückt. Aktuell ist die COPYFIX AG mit BBB bewertet. 
+Ändert sich das Rating, ändern sich in der Folgeperiode die Konditionen aller Kredittypen (ausgenommen sind 
+bereits bestehende langfristige Kredite). Die einzelnen Ratingklassen wirken sich wie folgt auf den Basiszins 
+der Folgeperiode aus: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Einflussfaktor  Veränderung Einflussfaktor Auswirkungen auf das 
+Rating 
+Eigenkapitalquote   
+Eigenkapital   
+Free Cash Flow / Finanzschulden   
+Inanspruchnahme Überziehungskredit   
+Kundenzufriedenheit   
+Periodenüberschuss   
+Planungsqualität   
+Produktivität der Mitarbeiter   
+Produktqualität   
+Rating Zinsänderung  
+AAA -4,0% 
+AA -3,0% 
+  A                        -2,0% 
+BBB -1,0% 
+BB +/-0% 
+B +1,0% 
+CCC +2,0% 
+CC +3,0% 
+C +4,0% 
+D +5,0% 
+ 
+ 
+33 © TOPSIM Die Entscheidungsbereiche 
+3.6.5 Steuern auf Einkommen & Ertrag 
+Die Steuerbelastung des Unternehmens beträgt 45% auf das Ergebnis der gewöhnlichen Geschäftstätigkeit. 
+Eventuelle Verluste werden vorgetragen und mit dem erzielten Jahresüberschuss vor Steuern so lange 
+verrechnet, bis ein positiver Saldo verbleibt, der dann versteuert werden muss. Die Steuerzahlung erfolgt in 
+der laufenden Periode. 
+3.6.6 Wechselkurs 
+In späteren Perioden werden die Märkte im Ausland für die COPYFIX AG attraktiv. Da die Produkte in einer 
+anderen Währung, der Foreign Currency Unit (FCU), verkauft werden, müssen die Verkaufspreise von Ihnen 
+umgerechnet werden.  
+ 
+Als Hilfestellung soll folgendes Beispiel dienen: 
+3.6.7 Dividendenzahlung 
+Wie viel die COPYFIX AG als Dividende ausschüttet, bleibt Ihnen überlassen. Der maximal auszuschüttende 
+Betrag entspricht dem kumulierten Gewinnvortrag der vorherigen Periode. Dieser Wert wird im 
+Teilnehmerbericht 8 Gewinn- und Verlustrechnung ausgewiesen. Die Entscheidung wird in Mio. EUR 
+angegeben. In Periode 0 wurden 1,0 Mio. EUR an Dividenden ausgezahlt.  
+Die Ausschüttung der Dividende wirkt sich positiv auf Ihren Aktienkurs aus, je höher der Betrag desto besser 
+der Aktienkurs. Sollten Sie allerdings nicht über genügend liquide Mittel verfügen, wird ihre 
+Dividendenausschüttung durch Kredite finanziert, das wirkt sich negativ auf Ihr Rating aus. 
+  EUR  FCU FCU  EUR 
+Der aktuelle Wechselkurs liegt bei: Der aktuelle Wechselkurs liegt bei: 
+𝐸𝑈𝑅
+𝐹𝐶𝑈=1,40 𝐸𝑈𝑅
+𝐹𝐶𝑈=1,40 
+Nun ersetzen wir das EUR durch den Verkaufspreis 
+in EUR.              Nun ersetzen wir das FCU durch den Verkaufspreis 
+in FCU.              
+3000
+𝐹𝐶𝑈=1,40 3000
+𝐹𝐶𝑈=1,40 
+Wir stellen die Gleichung nun nach FCU um und 
+rechnen den Verkaufspreis aus. Wir stellen die Gleichung nun nach EUR um und 
+rechnen den Verkaufspreis aus. 
+3000
+1,40=𝐹𝐶𝑈=2143 1,40∗2143=𝐸𝑈𝑅=3000 
+Der Verkaufspreis läge somit bei 2143 FCU pro 
+verkaufter Einheit. Der Verkaufspreis läge somit bei 3000 EUR pro 
+verkaufter Einheit. 
+ 
+ 
+34 © TOPSIM Die Entscheidungsbereiche 
+3.6.8 Aktienkurs und Unternehmenswert 
+In jeder Periode wird der Aktienkurs der COPYFIX AG ermittelt. Die Anzahl der Aktien beläuft sich auf 500.000 
+Stück. Der Aktienkurs spiegelt Ihren Unternehmenswert wider. Einfluss auf den Aktienkurs haben folgende 
+Faktoren: 
+Einflussfaktor  Veränderung Einflussfaktor Auswirkungen auf den 
+Aktienkurs 
+Eigenkapital der Periode   
+Jahresüberschuss der Periode   
+Ausgeschüttete Dividende der Periode   
+Kumulative ausgeschüttete Dividende   
+Umsatzrendite der Periode   
+Bekanntheit des Unternehmens   
+Umsatz   
+Planungsqualität   
+Kundenzufriedenheit   
+Fremdkapitalquote   
+Produktqualität gesamt   
+3.6.9 Shareholder Earnings 
+Die Aktionäre betrachten ihre Aktien an der COPYFIX AG unter dem Gesichtspunkt, welchen Ver-
+mögenszuwachs ihnen die Aktien seit dem Erwerb gebracht haben. Dieser Vermögenszuwachs setzt sich zum 
+einen aus dem über die Perioden gezahlten Dividenden, zum anderen aus den Kurssteigerungen zusammen. 
+Dieser Vermögenszuwachs wird in den Kennzahlen des Unternehmens (Teilnehmerbericht Nr. 16: 
+Geschäftsberichte der Branche) als Shareholder Earnings ausgewiesen. 
+3.6.10 Geschäftsberichte der Branche 
+Im Rahmen des Berichtswesens erhalten Sie kostenlos in jeder Periode eine Übersicht mit den wichtigsten 
+Daten aus Gewinn- und Verlustrechnung sowie Bilanz der Konkurrenzunternehmen. 
+  
+35 © TOPSIM Die Entscheidungsbereiche 
+3.6.11 Rechnungswesen 
+Die COPYFIX AG verfügt über ein modernes Rechnungswesen. Bei seiner Konzeption wurde darauf geachtet, 
+dass Quervergleiche innerhalb der Branche möglich sind. Die Auswertungen des betrieblichen 
+Rechnungswesens, bestehend aus Kostenarten-, Kosten-stellen- und Kostenträgerrechnung bilden eine 
+wichtige Grundlage für die Planung und Überwachung der Kosten. Die Auswertungen der Finanzbuchhaltung 
+entsprechen den gesetzlichen Vorschriften und zeigen die finanzielle Situation des Unternehmens. Mithilfe der 
+Deckungsbeitragsrechnung können Sie Ihr Betriebsergebnis ermitteln.  
+Für die Analyse der Kostenstellenberichte sind die Angaben unter 3.6.11.1 und 3.6.11.2 hilfreich. 
+3.6.11.1 Abschreibung für Gebäude 
+Der Abschreibungsbetrag pro Periode für Gebäude beträgt 0,25 Mio. EUR. Dieser Abschreibungsbetrag wird 
+auf die Kostenstellen wie folgt verteilt: 
+3.6.11.2 Instandhaltung und Kosten in der Verwaltung 
+Auch die Anlagen in der Verwaltung (z. B. Kopierer, Computer) müssen durch Instandhaltungsmaßnahmen 
+funktionsfähig gehalten werden. Dafür existieren feste Wartungsverträge mit 1 Mio. EUR Kosten pro Periode. 
+Die Löhne und Gehälter der Verwaltung werden der Kostenstelle Verwaltung als Gemeinkosten belastet. Diese 
+werden gemäß dem Umsatzanteil auf die Produkte verteilt. Einkauf  Fertigung  F&E Vertrieb Verwaltung 
+5% 70% 5% 5% 15% 
+Wir wünschen Ihnen viel Spaß und Erfolg bei Mastering Business Operations!  

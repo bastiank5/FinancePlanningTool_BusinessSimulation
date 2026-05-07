@@ -1,0 +1,136 @@
+THEORIEINPUT   RECHNUNGSWESEN / FINANZENFINANZ‐UND RECHNUNGSWESENHier kümmern Sie sich um die finanzielle Situation Ihrer Unternehmung
+
+INTERNESRECHNUNGSWESEN
+Internes Rechnungswesen – Kostenträgerrechnung –Verhältnis Zurechenbarkeit und Beschäftigungsabhängigkeit
+02.04.2026Planspiel_Prof. Dr. Anke Bez3THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: Eiselt, A. (2018), S. 23.KostenEinzelkostenGemeinkostenVariable KostenFixkostenKosten
+2Besonderheiten⊥Betriebsstoffe-Eh⊥FertiglöhnefürnichtausgelasteteMA-UKSieheunte:40000·50=2,00MEURSth.Kopierer
+Internes Rechnungswesen – Kostenartenrechnung der COPYFIX AG in Periode 0 (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez4THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenartenrechnung
+(*) Mit Kosten für Überstunden-NichtausgelastetAlle7ZAusgelastet3f1.∠5.
+Ökologie/Wertmalyse
+Internes Rechnungswesen –K o s t e nartenrechnung der COPYFIX AG
+02.04.2026Planspiel_Prof. Dr. Anke Bez5THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenartenrechnung
+
+Internes Rechnungswesen – Kostenartenrechnung der COPYFIX AG in Periode 0 (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez6THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenartenrechnung
+(*) Mit Kosten für Überstunden34,7936,01Fertigungs‐Einzelkosten23,09Einkauf‐Einzelkosten
+Internes Rechnungswesen – Kostenstellenrechnung der COPYFIX AG in Periode 0 (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez7THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenstellenrechnung
+Fertigungs‐Gemeinkosten(*) Mit Kosten für Überstunden
+Einkauf‐Gemeinkosten=NichtausgelasteteMA
+、
+Internes Rechnungswesen – Kostenträgerrechnung der COPYFIX AG in Periode 0 (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez8THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenträgerrechnung
+40000StkU3000stie
+5,93=STSth(Lager)mitdenHidesUmsatzesderVorperiodeMehrabgesetztalstnisieren
+Internes Rechnungswesen – Kostenträgerstückrechnung der COPYFIX AG in Periode 0 (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez9THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenträgerrechnung82,09MEUR⼆{052,2}40000Sth88,02MEUR=2046,8643000Sth
+02.04.2026Planspiel_Prof. Dr. Anke Bez10THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / KostenträgerrechnungInternes Rechnungswesen – Zusammensetzung der Herstellkosten‐Kostenträgerstückrechnung der COPYFIX AG (Produkt: COPY Classic)
+Internes Rechnungswesen – Zusammensetzung der Herstellkosten‐Kostenträgerstückrechnung der COPYFIX AG (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez11THEORIEINPUTRECHNUNGSWESEN UND FINANZENEinkauf Einzelkosten‐ Kosten für Einsatzstoffe/Teile (Materialkosten)‐ Kosten für Betriebsstoffe (Materialkosten)Gemeinkosten‐ Personalkosten Einkauf‐Mitarbeiter (umsatzabhängig, nicht direkt beeinflussbar)‐ Personalnebenkosten Einkauf‐Mitarbeiter‐ Pensionsrückstellungen Einkauf‐Mitarbeiter‐ Kosten für Einstellungen/Entlassungen (+ ggf. Sozialplan) [automatisch]‐ Lagerkosten für Einsatzstoffe/Teile‐ Abschreibungen auf GebäudeFertigung Einzelkosten‐ Personalkosten Fertigung für ausgelastete Fertigungsmitarbeiter‐ Personalnebenkosten Fertigung für ausgelastete Fertigungs‐Mitarbeiter‐ Pensionsrückstellungen Fertigung für ausgelastete Fertigungsmitarbeiter‐ Kosten für Nacharbeit/AusschussGemeinkosten‐ Personalkosten Fertigung aufgrund von Fehlzeiten in der Fertigung ‐ Personalkosten Fertigung für nicht‐ausgelastete Fertigungs‐Mitarbeitern‐ Personalnebenkosten Fertigung aufgrund Fehlzeiten und Nicht‐Auslastung‐ Pensionsrückstellungen Fertigung aufgrund Fehlzeiten und Nicht‐Auslastung‐ Kosten für Einstellungen/Entlassungen (+ ggf. für Sozialplan)‐ Kosten für Training‐ Abschreibungen auf Fertigungsanlagen‐ Abschreibungen auf Umwelttechnik‐ Abschreibungen auf Gebäude‐ Kosten für Instandhaltung/Rationalisierung der Fertigungsanlagen‐ Kosten für Prozessoptimierung‐ Umweltabgabe‐ Sonstige fixe Kosten (z.B. sprungfixe Kosten bei Überstunden)= Herstellkosten
+Internes Rechnungswesen – Zusammensetzung der Personalkosten – ausder Kostenstellenrechnung der COPYFIX AG (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez12THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Kostenstellenrechnung
+02.04.2026Planspiel_Prof. Dr. Anke Bez13THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / KostenträgerrechnungInternes Rechnungswesen – Zusammensetzung der Selbstkosten‐Kostenträgerstückrechnung der COPYFIX AG (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez14THEORIEINPUTRECHNUNGSWESEN UND FINANZEN= Herstellkosten des UmsatzesF&E Einzelkosten‐ Kosten für Ökologie (sonstige Kosten F&E) ‐ Kosten für Wertanalyse (sonstige Kosten F&E) Gemeinkosten‐ Personalkosten F&E‐Mitarbeiter (Trechnologie)‐ Personalnebenkosten F&E‐Mitarbeiter‐ Pensionsrückstellungen F&E‐Mitarbeiter‐ Kosten für Einstellungen/Entlassungen (+ ggf. Sozialplan) [automatisch)‐ Abschreibungen auf GebäudeVertrieb Einzelkosten‐ Kosten für Werbung‐ Transportkosten für Fertigerzeugnisse (Inland/Ausland)‐ Abschreibungen auf Fertigerzeugnisse (ggf.)Gemeinkosten‐ Personalkosten Vertriebsmitarbeiter‐ Personalnebenkosten Vertriebs‐Mitarbeiter‐ Pensionsrückstellungen Vertriebs‐Mitarbeiter‐ Kosten für Einstellungen/Entlassungen (+ ggf. Sozialplan)‐ Kosten für Corporate Identity (CI)‐ Kosten für Marktforschung(‐sbericht)‐ Lagerkosten für Fertigerzeugnisse‐ Abschreibungen auf GebäudeVerwaltung Einzelkosten‐ Keine EinzelkostenGemeinkosten‐ Personalkosten Verwaltungsmitarbeiter (umsatzabhängig, nicht direkt beeinflussbar)‐ Personalnebenkosten Verwaltungs‐Mitarbeiter‐ Pensionsrückstellungen Verwaltungs‐Mitarbeiter‐ Kosten für Einstellungen/Entlassungen (+ ggf. Sozialplan) [automatisch]‐ Abschreibungen auf Gebäude‐ Kosten für Instandhaltung in der Verwaltung= SelbstkostenInternes Rechnungswesen – Zusammensetzung der Selbstkosten‐Kostenträgerstückrechnung der COPYFIX AG (Produkt: COPY Classic)
+02.04.2026Planspiel_Prof. Dr. Anke Bez15THEORIEINPUTRECHNUNGSWESEN UND FINANZENInternes Rechnungswesen – Kostenträgerstückrechnung der COPYFIX AG–G r u n d l a g e für Preis‐und Absatzentscheidungen IDie Herstellkostendienen der Bewertung der fertigen Erzeugnisse –b e i Zugängen von fertigen Erzeugnissen ins Lager aus der Fertigung.Sie sind auch, zusammen mit Kosten für Ökologie und Wertanalyse, die Grundlage für die Entscheidung, ob der Absatzkanal Großabnehmer bedient und/oder an einer Ausschreibungteilgenommen werden kann.IDie Herstellkosten des Umsatzes dienen der Bewertung von fertigen Erzeugnissen –b e i Abgängen von fertigen Erzeugnissen aus dem Lager an den Vertrieb. IDie Herstellkosten des Umsatzes bzw. die Herstellungskosten sind die Ausgangs‐basis für die Ermittlung der Selbstkosten. Dabei sollte der verlangte Marktpreis immer über den Selbstkosten liegen! IFür die Ermittlung eines produktbezogenen Erfolges ist dann die mehrstufige Deckungsbeitragsrechnung relevant. 
+Internes Rechnungswesen – einstufige versus mehrstufige Deckungs‐beitragsrechnung
+02.04.2026Planspiel_Prof. Dr. Anke Bez16THEORIEINPUTRECHNUNGSWESEN UND FINANZENINur die variablen Kosten sind bei der einstufigen Deckungsbeitragsrechnung die entscheidungsrelevanten Kosten. Der Deckungsbeitrag einer Leistungseinheit gibt an, welchen Beitrag das Produkt zum Gewinn und zur Deckung der fixen Kosten beiträgt.Preis je Leistungseinheit./. Variable Kosten je Leistungseinheit= Deckungsbeitrag je Leistungseinheit (db)Preis je LE * Absatzmenge./. Variable Kosten je LE * Absatzmenge= Deckungsbeitrag je Leistungsart (Bruttogewinn) (DB)IIm Gegensatz zur einstufigen Deckungsbeitragsrechung (oder Direct Costing), bei der die Fixkosten anschließend in einem Block verrechnet werden, erfolgt bei der mehrstufigen Deckungsbeitragsrechnung eine stufenweise Verrechnung der Fixkosten.D a d u r c h wird stärker ersichtlich, welche Absatzmärkte, Kunden oder Produkte besonders erfolgreich, d.h. besonders wirtschaftlich, bedient werden konnten. Quelle: Vgl. Vahs, D. / Schäfer‐Kunz, J. (2015): Einführung in die Betriebswirtschaftslehre, Stuttgart 2015, S. 482 ff..
+Internes Rechnungswesen – mehrstufige Deckungsbeitragsrechnungje Stück der COPYFIX AG für Periode 4 (Beispiel) 
+02.04.2026Planspiel_Prof. Dr. Anke Bez17THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Ökologie+Wertanalyse
+EXTERNESRECHNUNGSWESEN
+02.04.2026Planspiel_Prof. Dr. Anke Bez19Operative Planung
+Quelle: Eiselt, A. (2018), S. 108.THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+ExternesRechnungswesenPlnichtinderaktuellenPeriodeverrechnetJAndersalsimechtenLeben),①wirdalsGewinnvertragindernächstenPeriodeeingestelltaht.PeriodeVorperiodeGewinnvortrag04,27_2,00MEUR36,27/2,00DividendePr-3,674,27MEUR-3,67-EK+0,obDividendenauszahlung:KumulierterGewinnvortragderVorpeidealsMaximalbetrag
+Grundlegende externe Berichtsformate
+02.04.2026Planspiel_Prof. Dr. Anke Bez20Quelle: Heesen, B. (2017), S. 50. -Kasse/BankBetriebsergebnisTHEORIEINPUT III RECHNUNGSWESEN UND FINANZEN
+02.04.2026Planspiel_Prof. Dr. Anke Bez21Quelle: Vgl. Vahs, D. / Schäfer‐Kunz, J. (2012), S. 423. Eröffnungsbilanz
+Vermögen
+Liquide Mittel
+Eigenkapital
+FremdkapitalGewinn‐und Verlustrechnung
+AufwandGewinn
+ErtragSchlussbilanz
+Vermögen
+Eigenkapital
+Fremdkapital
+Liquide Mittel
+=
++
+Cashflow Statement
+Anfangs‐bestand+ Cashflow Operations‐Cashflow Investitionen+ Cashflow FinanzierungEnd‐bestand
++
+=Zusammenhang zwischen Bilanz, GuV und KapitalflussrechnungTHEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Begrifflichkeiten auf Grundlage der Gewinn‐und Verlustrechnung (GuV) nach HGB: 
+02.04.2026Planspiel_Prof. Dr. Anke Bez22Quelle: Vahs, D. / Schäfer‐Kunz, J. (2015), S. 420. Betriebsergebnis + Finanzergebnis =E r g e b n i s der gewöhnlichen Geschäftstätigkeit +E r g e b n i s der nicht‐gewöhnlichen Geschäftstätigkeit (= außerordentliches Ergebnis)–S t e u e r n=J a h r e s ü b e r s c h u s s /‐fehlbetragTHEORIEINPUTRECHNUNGSWESEN UND FINANZENGewinn‐und Verlustrechnung
+02.04.2026Planspiel_Prof. Dr. Anke Bez23Gewinn‐und Verlustrechnung der COPYFIX AG für Periode 0THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Gewinn‐und Verlustrechnung= Lagerwert (bewertet mit den Herstellkosten des Umsatzes) der  Abgänge an Fertig‐produkten CopyClassic an den Vertrieb (siehe Lagerbericht)
+02.04.2026Planspiel_Prof. Dr. Anke Bez24Umsatzkostenverfahren –B e s t a n d t e i l e des BetriebsergebnissesTHEORIEINPUTRECHNUNGSWESEN UND FINANZENUmsatzerlöse+ sonstige Erträge ‐ Umsatzkosten‐ Aufwand für Einsatzstoffe/Teile‐ Aufwand für Betriebsstoffe ‐ Personalaufwendungen im Fertigungsbereich‐ Abschreibungen auf die Gebäude der Fertigung‐ Abschreibungen auf die Fertigungsanlagen‐ Abschreibungen auf Umwelttechnik‐ Sonstige fixe Kosten ‐ Aufwendungen für Instandhaltung, Rationalisierung, Prozessoptimierung‐ Umweltabgabe‐ Aufwendungen für Nacharbeit/Ausschuss‐ Minderung des Bestandes an Fertigerzeugnissen‐ Gemeinkosten des Einkaufs‐ F & E‐Kosten‐ Personalaufwendungen für F&E‐Mitarbeiter‐ Aufwendungen für Ökologie und Wertanalyse‐ Vertriebskosten‐ Personalaufwendungen für Vertriebsmitarbeiter‐ Aufwendungen für Marketing‐ Aufwendungen für Marktforschung, CI‐ Gemeinkosten des Vertriebs‐ Verwaltung‐ Aufwendungen für die Geschäftsleitung, Buchhaltung, Personalverwaltung‐ Abschreibungen auf das Verwaltungsgebäude‐ Sonstiger Aufwand= Betriebsergebnis
+02.04.2026Planspiel_Prof. Dr. Anke Bez25Gewinn‐und Verlustrechnung der COPYFIX AG für Periode 0THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Gewinn‐und VerlustrechnungBilanz
+02.04.2026Planspiel_Prof. Dr. Anke Bez26Bilanz der COPYFIX AG für Periode 0THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Bilanz
+√√
+~BeeinflussDar
+THEORIEINPUT   RECHNUNGSWESEN / FINANZENFINANZ‐UND RECHNUNGSWESENHier kümmern Sie sich um die finanzielle Situation Ihrer Unternehmung
+
+FINANZEN/LIQUIDITÄT
+02.04.2026Planspiel_Prof. Dr. Anke Bez29Operative Planung
+Quelle: Eiselt, A. (2018), S. 108.THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+02.04.2026Planspiel_Prof. Dr. Anke Bez30Quelle: Vgl. Vahs, D. / Schäfer‐Kunz, J. (2012), S. 423. Eröffnungsbilanz
+Vermögen
+Liquide Mittel
+Eigenkapital
+FremdkapitalGewinn‐und Verlustrechnung
+AufwandGewinn
+ErtragSchlussbilanz
+Vermögen
+Eigenkapital
+Fremdkapital
+Liquide Mittel
+=
++
+Cashflow Statement
+Anfangs‐bestand+ Cashflow Operations‐Cashflow Investitionen+ Cashflow FinanzierungEnd‐bestand
++
+=Zusammenhang zwischen Bilanz, GuV und KapitalflussrechnungTHEORIEINPUTRECHNUNGSWESEN UND FINANZEN-CashflowStatement->>Kasse
+'Kasse(Cush)
+AKasse
+CashflowStatement=InfinelteErmittlungF
+02.04.2026Planspiel_Prof. Dr. Anke Bez31Quelle: Vahs, D. / Schäfer‐Kunz, J. (2012), S. 415. Die Kapitalflussrechnungermittelt die Veränderungen des Finanzmittel‐bestands, d.h. die Veränderung der flüssigen Mittel in der Bilanz:Cashflow aus laufender/operativer Geschäftstätigkeit+C a s h f l o w aus der Investitionstätigkeit+C a s h f l o w aus der Finanzierungstätigkeit=Z a h l u n g s w i r k s a m e Veränderungen des FinanzmittelbestandesEntsprechende Kennzahlen: Cashflow‐Marge (oder Cashflow‐Umsatzrendite): = CF aus laufender Geschäftstätigkeit / Umsatzerlöse THEORIEINPUTRECHNUNGSWESEN UND FINANZENKapitalflussrechnung zur Ermittlung der Finanzlage
+02.04.2026Planspiel_Prof. Dr. Anke Bez32Kapitalflussrechnung/Cashflow Statement der COPYFIX AG für Periode 0THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Cashflow StatementBilanz↑AusgabenunwirksameAufwendungen^+ganzerBedarffürPensionsrückschreibungen2
+1Kasse
+?Wirdaddiert,damannurWertewill,welcheAuswirkungenaufZahlungenhatAbschreibungen:Inht.Ummesttechnike,Gebände,verschrotteteAnlagen۽-ErhöhungLagerwertMaterialien(GebundenesGeld)-ErhöhungLagerwertFertigerzeugnisse-Forderungenaus(aL.(InBilanzOperativer(F
+02.04.2026Planspiel_Prof. Dr. Anke Bez33Bilanz der COPYFIX AG für Periode 0THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Bilanz
++ 0,351K1asse
+02.04.2026Planspiel_Prof. Dr. Anke Bez34Quelle: Jung, H. (2009), S. 1083. Neben der Veränderung des Zahlungsmittelbestandes kann auch der sog. freie Cashflow ermittelt werden: Cashflow aus laufender Geschäftstätigkeit–d e r davon für Investitionen verwendete Cashflow=F r e i e (Free) CashflowDer freie Cashflow gibt an, welche selbsterwirtschafteten Mittel dem Unter‐nehmen frei zur Verfügung stehen, um z.B. eine fällige Rückführung der Fremdfinanzierung durchzuführen, eine Dividende zu zahlen und/oder Aktien zurückzukaufen.Diese Kennzahl ist bilanzpolitisch kaum beeinflussbar. THEORIEINPUTRECHNUNGSWESEN UND FINANZENKapitalflussrechnung zur Ermittlung der Finanzlage
+02.04.2026Planspiel_Prof. Dr. Anke Bez35Kapitalflussrechnung/Cashflow Statement der COPYFIX AG für Periode 0THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Cashflow Statement
+02.04.2026Planspiel_Prof. Dr. Anke Bez36THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Bilanz
+Bilanz der COPYFIX AG für Periode 0
+DividendeDividenceBerechnen
+02.04.2026Planspiel_Prof. Dr. Anke Bez37THEORIEINPUTRECHNUNGSWESEN UND FINANZENLiquiditätsrechnung für die COPYFIX AG in der Periode 0
+Quelle: TopSim‐Cloud, TN, Berichtswesen / LiquiditätsrechnungAKasse+0,35
+=EBKasse
+Quelle: TopSim‐Cloud, TN, Berichtswesen / Gewinn‐und Verlustrechnung02.04.2026Planspiel_Prof. Dr. Anke Bez38THEORIEINPUTRECHNUNGSWESEN UND FINANZENLiquiditätsplanung für die COPYFIX AG für Periode 1 ‐Kreditbedarf
+02.04.2026Planspiel_Prof. Dr. Anke Bez39Geplante Eigenkapitalrendite (%)  = Geplanter Periodenüberschuss in Relation zu dem Eigenkapital der VorperiodeFinanzlageTHEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Geplanter operativer Cashflow (MEUR) = Der Cashflow aus der laufenden Geschäfts‐tätigkeit bzw. der operative Cashflow ergibt sich aus der Summe der Positionen ‐Periodenüberschuss / Periodenfehlbetrag, ‐Abschreibungen auf Anlagevermögen, ‐Erhöhung der Pensionsrückstellungen und ‐den Veränderungen des Umlaufvermögens.In dem Entscheidungsprotokoll sind folgende Kennzahlen zu planen: 
+Quelle: TopSim‐Cloud, TN‐Handbuch: Berichtswesen / Executive Summary / Erfolgskennzahlen sowie Berichtswesen / Cashflow Statement
+40THEORIEINPUTRECHNUNGSWESEN UND FINANZEN
+Quelle: Eiselt, A. (2018), S. 46.Liquiditätsplanung für die COPYFIX AG ‐KreditbedarfPLAN‐Einzahlungen(in MEUR)Einzahlungen aus Umsatz lfd. Periode113,20Einzahlungen auf Umsatz Vorperiode25,80Weitere Einzahlungen (z.B. Desinvestition von Anlagen)‐Aufnahme kurz‐und langfristiger Kredite?SUMME Einzahlungen139,00PLAN‐Auszahlungen(in MEUR)Auszahlung für Material (Einsatz‐und Betriebsstoffe)18,43Auszahlung für Personal (Löhne, Training, Personalnebenkosten)57,77Auszahlung für sonstige Kosten/Aufwand (sonstige fixe Kosten der Fertigungs‐anlagen /Aufwendungen für Instandhaltung, Rationalisierung, Prozessoptimierung / Umweltabgabe / Kosten für Nacharbeit, Ausschuss / Lagerkosten / Transportkosten /  Kosten für Werbung, Marktforschung, CI / Aufwendungen für Öko‐Index u. Wertanalyse)28,44Rückzahlung kurzfr. & Überziehungskredit27,00Kauf von Fertigungsanlagen0,00Investition in Umwelttechnik1,80Auszahlung Dividende1,20Zinsaufwand kurz‐und langfr. Kredite?Steuern auf Einkommen und Ertrag4,50SUMME Auszahlungen139,14Kasse(in MEUR)Kassenanfangsbestand 0,85+ Summe Plan‐Einzahlungen 139,00‐Summe Plan‐Auszahlungen 139,14= Plan‐Kassenendbestand 0,71ZukünftigeUmsatzerlöse80%=Forderungena.(u).20i「(NewsBeachten(
+Min0,SonstÜ.kreditBeineuemKreditanfallendeEinsenBeachten
+02.04.2026Planspiel_Prof. Dr. Anke Bez41Einkauf Verwaltung Fertigung F&E Vertrieb SummePersonalanfangsbestand18 208 852 35 100 1.213+ Einstellungen31 45 0 6 8 8 1‐ Entlassungen 000 0 0 0‐ Fluktuation18 4 5 1 86 3Personalendbestand20 214 857 40 100 1.231Kosten je Mitarbeiter (EUR)31.000,0 29.000,0 31.000,0 45.000,0 41.000,0Kosten je Einstellung (EUR)12.500,0 12.500,0 12.500,0 12.500,0 12.500,0Kosten je Entlassung (EUR)10.000,0 10.000,0 10.000,0 10.000,0 10.000,0Training je Mitarbeiter (EUR)1.600,0Löhne/Gehälter (EUR)621.426,00 6.196.720,00 26.562.164,00 1.797.750,00 4.100.000,0039.278.060,00 57.765.515,00Einstell./Entlass./Training (EUR)37.500,00 175.000,00 1.995.950,40 75.000,00 100.000,002.383.450,40Personalnebenkosten (EUR)254.784,66 2.540.655,20 10.890.487,24 737.077,50 1.681.000,0016.104.004,60Pensionsrückstellungen (EUR)31.071,30 309.836,00 1.328.108,20 89.887,50 205.000,00 1.963.903,00Summe (EUR)944.781,96 9.222.211,20 40.776.709,84 2.699.715,00 6.086.000,00 59.729.418,00THEORIEINPUTRECHNUNGSWESEN UND FINANZENLiquiditätsplanung für die COPYFIX AG ‐Kreditbedarf
+->Pensionsrück.nichtZahlungswirksam513&'1.c
