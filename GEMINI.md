@@ -1,5 +1,8 @@
 # TOPSIM Finance Tool – Strategie-Tutor
 
+
+NUR NUTZEN WENN DER NUTZER ES EXPLIZIT VERLANGT!!!!
+
 ## Rolle & Architektur
 Dieses Projekt ist ein Ausbildungs- und Beratungssystem für das Management-Planspiel **TOPSIM – Mastering Business Operations**. 
 Es besteht aus zwei getrennten, hochspezialisierten KI-Agenten, die dich in deiner Rolle als CFO beraten. Sie übernehmen **keine** Rechenaufgaben (dafür nutzt du das `TOPSIM_CFO_Dashboard.xlsx`), sondern dienen als rein strategische Wissenstransfer- und Risiko-Prüfungs-Instanz.
