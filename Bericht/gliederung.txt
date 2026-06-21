@@ -1,31 +1,34 @@
-Optimale Kapitalstruktur im Konjunkturzyklus – Eine Analyse der Finanzierungsstrategie der COPYFIX AG über sieben Geschäftsperioden
+Der Einfluss des Zinsniveaus auf die Kapitalstruktur – Eine Analyse der Finanzierungsentscheidungen der COPYFIX AG
 
-Alternativen:
-Finanzierungsentscheidungen unter makroökonomischer Unsicherheit – Kapitalstrukturtheorie am Beispiel der COPYFIX AG
-Eigenkapital oder Fremdkapital? Die Kapitalstruktur der COPYFIX AG im Spannungsfeld von Konjunktur und Zinspolitik
+Inhaltsverzeichnis
+Abbildungsverzeichnis
+Tabellenverzeichnis
+Abkürzungsverzeichnis (optional)
 
-1. Einleitung
+1. Einleitung (~1,5 Seiten)
   1.1 Problemstellung & Relevanz
-  1.2 Zielsetzung & Aufbau des Berichts
+  1.2 Zielsetzung & Aufbau
 
-2. Theoretischer Rahmen
-  2.1 Grundlagen der Kapitalstruktur
-  2.2 Weiterführende Theorien
-  2.3 Makroökonomische Einflussfaktoren
+2. Theoretischer Rahmen (~4–5 Seiten)
+  2.1 Kapitalstruktur und der Einfluss von Fremdkapitalkosten (~2,5 Seiten)
+  2.2 Zinsänderungen und Finanzierungshierarchie (~1,5–2 Seiten)
 
-3. Analyse: Finanzierungsstrategie der COPYFIX AG
-  3.1 Konjunkturelle Rahmenbedingungen im Planspiel 
-  3.2 Entwicklung der Kapitalstruktur
-  3.3 Zinsentwicklung und Kreditentscheidungen 
-  3.4 Liquiditätsentwicklung und Dividendenpolitik 
-  3.5 Theoretische Einordnung 
+3. Analyse: Finanzierungsstrategie der COPYFIX AG (~8–9 Seiten)
+  3.1 Zinsentwicklung im Planspiel (~1,5 Seiten)
+  3.2 Entwicklung der Kapitalstruktur (~2 Seiten)
+  3.3 Kreditentscheidungen im Kontext des Zinsniveaus (~2 Seiten)
+  3.4 Liquidität und Dividendenpolitik unter Zinseinfluss (~1,5 Seiten)
+  3.5 Theoretische Einordnung (~2 Seiten)
 
-4. Handlungsempfehlungen
-  4.1 Optimierungsansätze für die Finanzierungsstrategie
-  4.2 Wann hätte Fremdkapital sinnvoll sein können?
+4. Handlungsempfehlungen (~2 Seiten)
+  4.1 Optimale Nutzung von Niedrigzinsphasen
+  4.2 Zinsrisikomanagement und Dividendenpolitik
 
-5. Ausblick & Lessons Learned
-  5.1 Reflexion: Was würden wir anders machen?
-  5.2 Übertragbarkeit auf die Praxis
+5. Ausblick (~1,5 Seiten)
+  5.1 Übertragbarkeit auf die Praxis
+  5.2 Grenzen des Planspiels
 
-6. Fazit
+6. Fazit (~0,5 Seiten)
+
+Literaturverzeichnis
+Anhang (weitere Schaubilder, Detailtabellen, ggf. Screenshots aus TOPSIM)

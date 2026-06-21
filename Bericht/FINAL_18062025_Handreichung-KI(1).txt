@@ -1,0 +1,165 @@
+
+Hinweise des Prüfungsausschusses der Fakultät IT
+zur eigenständigen Anfertigung von schriftlichen Prüfungsleistungen
+unter Berücksichtigung von durch generative KI gestützte Systeme
+
+
+Präambel
+
+Dieses Dokument hat das Ziel, Studierenden einen transparenten Rahmen zu bieten, der den verantwortungsvollen Einsatz von generativer KI in wissenschaftlichen Arbeiten ermöglicht und prüfungsrechtlich absichert.
+
+Wenn bei der Anfertigung von schriftlichen Arbeiten (Abschlussarbeit, Forschungsprojekt, Studienprojekt, Praxissemesterbericht) auf generative KI-Systeme (z.B. ChatGPT, Copilot, etc.) zurückgegriffen wird, soll dazu die Art der Verwendung und deren Umfang angegeben werden. Durch die Offenlegung der Verwendung wird Klarheit und Sicherheit für alle Beteiligten geschaffen. Sie schützt Studierende und Prüfende vor Missverständnissen und sichert die Integrität akademischer Leistungen. Ein nicht deklarierter Einsatz von generativer KI kann – unabhängig von diesem Dokument – als Täuschung gewertet werden. Daher ist ein ehrlicher und offener Umgang damit entscheidend.
+
+Neben vollständigen Quellenangaben von direkt übernommenen oder paraphrasierten Inhalten innerhalb der Arbeit, ist der korrekte Ort dafür die Eigenständigkeitserklärung der Arbeit. Die erweiterte Eigenständigkeitserklärung dient dabei nicht als Bewertungsmaßstab, sondern der Klarstellung der Eigenleistung. Sie schafft einen transparenten Rahmen, der die Eigenständigkeit analog zu bisherigen Erklärungen dokumentiert, ohne den Dialog mit den Prüfenden zu ersetzen.
+
+Formulierung der Eigenständigkeitserklärung
+
+Die Studierenden sollen im Rahmen der elektronischen/schriftlichen Abgabe von Prüfungsleistungen in dem abzugebenden Dokument (z.B. Abschlussarbeit) die untenstehende erweiterte Eigenständigkeitserklärung beifügen. Diese enthält zwei Aspekte: 
+
+a) Selbständiges Verfassen der Prüfungsleistung 
+
+Das Zusichern des selbstständigen Verfassens bedeutet, dass niemand sonst die Inhalte erstellt hat. Zu den Inhalten zählen neben dem Text auch Abbildungen, Tabellen und Formeln. Wenn bspw. Inhalte unter Zuhilfenahme von generativer KI (z. B. ChatGPT) erzeugt werden, also ausschließlich oder weitgehend KI-generierte Inhalte kopiert und/oder verwendet werden, liegt insoweit kein selbständiges Verfassen vor, da die Prüfungsleistung (weitgehend) durch die generative KI erstellt wird.  
+
+b) Nutzung der angegebenen Quellen und Hilfsmittel 
+
+Wenn eine generative KI (z. B. ChatGPT) nicht vorab von den Prüfenden als Hilfsmittel ausdrücklich ausgeschlossen wurde, ist sie generell ein zulässiges Hilfsmittel. Allerdings muss der Einsatz transparent gemacht werden, um eine Täuschung über die Verwendung von Quellen und Hilfsmitteln aktiv auszuschließen. 
+
+Eine lückenlose Darstellung der Nutzung von generativer KI ist dabei nicht vorgesehen. Studierende schätzen selbst oder in Rücksprache mit der oder dem Erstprüfenden ein, welche Informationen im Hinblick auf die Eigenständigkeit relevant sind. Dabei ist die Analogie zur bisherigen Handhabung hilfreich: Die IT-gestützte Suche nach wissenschaftlichen Arbeiten via Google-Scholar oder in der Online-Bibliothek, die im Anschluss selbst gelesen und zitiert werden, hat keinen Einfluss auf die Eigenständigkeit. Analog ist die Nutzung von generativer KI zur Literaturrecherche, etwa im Rahmen von Google-Anfragen, nicht anzugeben. Sollten allerdings Inhalte direkt übernommen werden, ohne dass die Quellen gelesen und zitiert werden, ist dies schlechte wissenschaftliche Praxis. Direkt übernommene oder paraphrasierte Ideen und Inhalte müssen stets nach gängigen Zitierregeln korrekt zitiert werden. 
+
+Gerade im Zweifelsfall soll die Nutzung in der erweiterten Eigenständigkeitserklärung transparent gemacht werden und gilt damit als gemeldet. Der nachträgliche Täuschungsvorwurf kann so ausgeschlossen werden. Hierbei genügt es nicht, wenn allgemein darauf verwiesen wird, dass ein Hilfsmittel benutzt wurde. Denn so ist nicht eindeutig erkennbar, welche Teile der Prüfungsleistung inwieweit davon betroffen sind. Es ist kenntlich zu machen, dass generative KI benutzt wurde und in welchem Umfang. 
+
+Generative KI-Systeme, die im inhaltlichen Teil der Arbeit (z.B. als Teil der Architektur eines Software-Prototyps oder im Rahmen der Implementierung) verwendet werden, sind im inhaltlichen Teil der Arbeit zu thematisieren bzw. entsprechend zu referenzieren. 
+
+Bitte beachten Sie, dass die Validität der Aussagen generativer KI nicht ohne Weiteres belastbar ist und der Umgang mit solchen Systemen daher wohlüberlegt sein muss.  
+
+Zulässige Vorgehensweise
+
+Gehen Sie bitte wie folgt vor:
+1. Machen Sie sich mit dem sinnvollen Einsatz von generativen KI-Systemen vertraut und setzen Sie entsprechende Haken in der erweiterten Eigenständigkeitserklärung. Im Zweifel stimmen Sie bitte mit Erstprüferin oder Erstprüfer ab, welche Systeme wie eingesetzt werden sollen.
+2. Für Arbeitsschritte, in denen generative KI verwendet wurde (Erstellung von Inhalten), ist in der Tabelle anzugeben, wie der Einsatz von generativer KI erfolgt ist (siehe Anhang). Nichtzutreffende Zeilen sind zu löschen. Für diese Inhalte ist zu beschreiben, wie und in welchem Umfang welche KI-Systeme eingesetzt wurden (siehe Ausfüllhilfe für Beispiele). Sind Aspekte bereits im inhaltlichen Teil der Arbeit beschrieben oder zitiert, ist keine redundante Erfassung in der Tabelle nötig.
+3. Die Erklärung ist zu unterschreiben und direkt im Prüfungsdokument einzufügen. Der Anhang ist mit der Arbeit separat einzureichen.
+
+Hinweis: Bei gemeinsam verfassten Dokumenten füllt bitte jedes Gruppenmitglied eine separate erweiterte Eigenständigkeitserklärung mit separatem Anhang für den eigenen Anteil der Arbeit aus.
+
+
+
+
+Clemens Klöck (Prüfungsausschussvorsitzender)
+
+Stand: 18.06.2025
+
+
+
+
+
+Erweiterte Eigenständigkeitserklärung zur Verwendung generativer KI-Systeme als Hilfsmittel
+
+
+Hiermit versichere ich, dass ich diese Prüfungsleistung selbständig verfasst habe. Die verwendeten Quellen und Hilfsmittel habe ich angegeben. 
+
+Sofern ich generative KI-Systeme über die Prüfung von Grammatik und Rechtschreibung von eigenständig erstelltem Text hinaus genutzt habe, bestätige ich hiermit, dass ich:
+ 
+? die von generativen KI-Systemen direkt übernommenen Inhalte im inhaltlichen Teil der Arbeit entsprechend markiert bzw. zitiert habe,
+ 
+? sichergestellt habe, dass die mit Hilfe der genannten generativen KI-Systemen erzeugten und sonstigen von mir verwendeten Inhalte faktisch korrekt sind, 
+
+? mir darüber im Klaren bin, dass ich als Verfasserin oder Verfasser dieser Arbeit die Verantwortung für die darin enthaltenen Angaben und Aussagen übernehme, 
+
+? sofern ich generative KI-Systeme zur Unterstützung wesentlicher Arbeitsschritte eingesetzt habe, die nicht bereits im inhaltlichen Teil der Arbeit oder den Referenzen thematisiert bzw. zitiert werden, dies tabellarisch erfasst habe. Die Tabelle habe ich mit Abgabe der Arbeit eingereicht (siehe Anhang).
+
+
+
+
+
+Ort, Datum, Unterschrift
+
+
+
+
+
+
+
+
+Anhang der erweiterten Eigenständigkeitserklärung
+
+Arbeitsschritt2
+Eingesetzte(s) Gen-KI- System(e)
+Verwendung in Kapitel
+Beschreibung der Verwendungsweise (bspw. Zweck, Prompt, Weiter-verarbeitung KI-generierter Output)
+Sprachliche Optimierung oder Strukturierung von Text
+
+
+
+Generierung von Formeln, Grafiken, Tabellen und Diagrammen
+
+
+
+Ideenentwicklung und Konzeption von Aspekten der Arbeit
+
+
+
+Einordnung von Literatur
+
+
+
+Datensammlung und -analyse
+
+
+
+…
+
+
+
+
+
+Ort, Datum, Unterschrift
+Ausfüllhilfe zum Anhang der erweiterten Eigenständigkeitserklärung
+
+Bitte beachten: Dies sind illustrative Beispiele, die so angegeben werden könnten bzw. dürften. Es ist aber kein Rückschluss auf deren Bewertung zulässig. Sollten Sie ähnliche Vorgehen gewählt haben und diese in Rücksprache mit der oder dem Erstprüfenden bzw. nach eigenem Ermessen hier nicht auflisten, ist das zulässig.
+
+Arbeitsschritt
+Eingesetzte(s) Gen-KI- System(e)
+Verwendung in Kapitel (bitte Kapitel einzeln benennen)
+Beschreibung der Verwendungsweise (bspw. Zweck, Prompt, Weiterverarbeitung KI-generierter Output)
+Sprachliche Optimierung oder Strukturierung von Text
+ChatGPT (GPT-4o)
+Kapitel 2,3,4
+Zunächst eigenständig geschriebene Textabschnitte wurden einzeln von ChatGPT sprachlich optimiert mit Fokus auf die Verwendung wissenschaftlicher Sprache.
+Generierung von Formeln, Grafiken, Tabellen und Diagrammen
+ChatGPT (GPT-4o)
+Kapitel 2,3,4
+Diagramm 7 wurde aus eigenen Messdaten in ChatGPT mit einer berechneten Trendkurve dargestellt; Formeln 12-15 wurden durch ChatGPT aus vorherigen Ergebnissen vereinfacht.
+Ideenentwicklung und Konzeption von Aspekten der Arbeit
+ChatGPT (GPT-4o)
+Kapitel 4 
+Zur Generierung von möglichen Lösungsansätzen und Ideen; Die zentrale Argumentationskette der Arbeit wurde nahezu unverändert von ChatGPT übernommen.
+Einordnung von Literatur
+Gemini 
+Deep Research
+Kapitel 2.3 
+Literatur zusammenfassen, bewerten und gewichten lassen; Relevante Texte wurden daraufhin eigenständig gelesen.
+Datensammlung und -analyse
+ChatGPT (GPT-4o)
+Kapitel 4.3
+Initiale Auswertung der zentralen Punkte der identifizierten Fallstudien. Die Fallstudien wurden anschließend gelesen und die Auswertung manuell verfeinert.
+
+Esslingen, 18.6.2025, M. Mustermann
+
+Ort, Datum, Unterschrift
+
+1 Vgl. Salden/Leschke, Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung, März 2023, S. 38, unter https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/deliver/index/docId/9734/file/2023_03_06_Didaktik_Recht_KI_Hochschulbildung.pdf, zuletzt abgerufen am 2.4.2025.
+2 Bitte entfernen Sie nichtzutreffende Zeilen der Tabelle. Ergänzen Sie Zeilen, wo nötig. Weitere relevante Arbeitsschritte könnten z.B. sein: Generierung von Programmcode, Interpretation von Daten, Auswahl von Modellen und Methoden, Übersetzung von Text…
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
