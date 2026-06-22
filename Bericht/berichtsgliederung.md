@@ -178,12 +178,17 @@ Abkürzungsverzeichnis (optional)
 
 ### 5. Ausblick (~1,5 Seiten)
 
-#### 5.1 Übertragbarkeit auf die Praxis
+#### 5.1 Prognose: Finanzierungsstrategie bei fortgeführtem Planspiel
+- **Szenario-Entwurf:** Wie müsste sich die Finanzierungsstrategie der COPYFIX AG in den kommenden Perioden entwickeln?
+- **Zinserwartung:** Ableitung künftiger Kreditanforderungen basierend auf der aktuellen Konjunkturentwicklung am Ende von Periode 7 (und Ausblick auf P8).
+- **Prognose-Maßnahmen:** Wann steht die nächste Refinanzierung an? Sollten bestehende Kredite zurückgezahlt oder neue aufgenommen werden? Welche Rolle spielt die angestrebte EK-Quote bei künftigen Zinsanpassungen?
+
+#### 5.2 Übertragbarkeit auf die Praxis
 - Inwiefern sind die Erkenntnisse zur Zins-Kapitalstruktur-Beziehung auf reale Unternehmen übertragbar?
 - Parallelen: Rating-Mechanik, Zinspolitik der Zentralbank, Tax Shield – all das existiert auch außerhalb des Planspiels
 - Aktuelle Relevanz: Wie würden die Erkenntnisse in einem realen Hochzins- oder Niedrigzinsumfeld wirken?
 
-#### 5.2 Grenzen des Planspiels
+#### 5.3 Grenzen des Planspiels
 - Vereinfachte Zinsmechanik (keine Anleihen, kein variabler Zins auf bestehende Kredite)
 - Keine echte Insolvenzgefahr → Trade-Off-Theorie nur eingeschränkt testbar
 - Keine Kapitalmarktreaktionen auf Finanzierungsentscheidungen (kein aktiver Aktienmarkt)

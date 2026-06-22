@@ -25,8 +25,9 @@ Abkürzungsverzeichnis (optional)
   4.2 Zinsrisikomanagement und Dividendenpolitik
 
 5. Ausblick (~1,5 Seiten)
-  5.1 Übertragbarkeit auf die Praxis
-  5.2 Grenzen des Planspiels
+  5.1 Prognose: Finanzierungsstrategie bei fortgeführtem Planspiel
+  5.2 Übertragbarkeit auf die Praxis
+  5.3 Grenzen des Planspiels
 
 6. Fazit (~0,5 Seiten)
 
